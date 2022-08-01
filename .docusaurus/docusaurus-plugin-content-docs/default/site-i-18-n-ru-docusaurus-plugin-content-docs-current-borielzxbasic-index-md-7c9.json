@@ -1,0 +1,24 @@
+{
+  "unversionedId": "borielzxbasic/index",
+  "id": "borielzxbasic/index",
+  "title": "Начало",
+  "description": "Оригинальная документация на английском языке находится тут.",
+  "source": "@site/i18n/ru/docusaurus-plugin-content-docs/current/borielzxbasic/index.md",
+  "sourceDirName": "borielzxbasic",
+  "slug": "/borielzxbasic/",
+  "permalink": "/ru/docs/borielzxbasic/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/borielzxbasic/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Начало"
+  },
+  "sidebar": "borielzx",
+  "next": {
+    "title": "От Sinclair ZX Basic к Boriel ZX Basic",
+    "permalink": "/ru/docs/borielzxbasic/sinclair-basic-to-boriel-basic"
+  }
+}

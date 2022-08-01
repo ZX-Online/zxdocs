@@ -1,0 +1,224 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "category",
+        "label": "Boriel ZX Basic",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Начало",
+            "href": "/ru/docs/borielzxbasic/",
+            "docId": "borielzxbasic/index"
+          },
+          {
+            "type": "link",
+            "label": "От Sinclair ZX Basic к Boriel ZX Basic",
+            "href": "/ru/docs/borielzxbasic/sinclair-basic-to-boriel-basic",
+            "docId": "borielzxbasic/sinclair-basic-to-boriel-basic"
+          }
+        ],
+        "href": "/ru/docs/category/boriel-zx-basic"
+      },
+      {
+        "type": "link",
+        "label": "Вводная Tutorial Intro",
+        "href": "/ru/docs/intro",
+        "docId": "intro"
+      },
+      {
+        "type": "category",
+        "label": "Tutorial - Basics",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Create a Page",
+            "href": "/ru/docs/tutorial-basics/create-a-page",
+            "docId": "tutorial-basics/create-a-page"
+          },
+          {
+            "type": "link",
+            "label": "Create a Document",
+            "href": "/ru/docs/tutorial-basics/create-a-document",
+            "docId": "tutorial-basics/create-a-document"
+          },
+          {
+            "type": "link",
+            "label": "Create a Blog Post",
+            "href": "/ru/docs/tutorial-basics/create-a-blog-post",
+            "docId": "tutorial-basics/create-a-blog-post"
+          },
+          {
+            "type": "link",
+            "label": "Markdown Features",
+            "href": "/ru/docs/tutorial-basics/markdown-features",
+            "docId": "tutorial-basics/markdown-features"
+          },
+          {
+            "type": "link",
+            "label": "Deploy your site",
+            "href": "/ru/docs/tutorial-basics/deploy-your-site",
+            "docId": "tutorial-basics/deploy-your-site"
+          },
+          {
+            "type": "link",
+            "label": "Congratulations!",
+            "href": "/ru/docs/tutorial-basics/congratulations",
+            "docId": "tutorial-basics/congratulations"
+          }
+        ],
+        "href": "/ru/docs/category/tutorial---basics"
+      },
+      {
+        "type": "category",
+        "label": "Tutorial - Extras",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Manage Docs Versions",
+            "href": "/ru/docs/tutorial-extras/manage-docs-versions",
+            "docId": "tutorial-extras/manage-docs-versions"
+          },
+          {
+            "type": "link",
+            "label": "Translate your site",
+            "href": "/ru/docs/tutorial-extras/translate-your-site",
+            "docId": "tutorial-extras/translate-your-site"
+          }
+        ],
+        "href": "/ru/docs/category/tutorial---extras"
+      },
+      {
+        "type": "link",
+        "label": "index",
+        "href": "/ru/docs/tsconf/",
+        "docId": "tsconf/index"
+      },
+      {
+        "type": "link",
+        "label": "index",
+        "href": "/ru/docs/zxnext/",
+        "docId": "zxnext/index"
+      },
+      {
+        "type": "link",
+        "label": "index",
+        "href": "/ru/docs/zxspectrum/",
+        "docId": "zxspectrum/index"
+      }
+    ],
+    "borielzx": [
+      {
+        "type": "link",
+        "label": "Начало",
+        "href": "/ru/docs/borielzxbasic/",
+        "docId": "borielzxbasic/index"
+      },
+      {
+        "type": "link",
+        "label": "От Sinclair ZX Basic к Boriel ZX Basic",
+        "href": "/ru/docs/borielzxbasic/sinclair-basic-to-boriel-basic",
+        "docId": "borielzxbasic/sinclair-basic-to-boriel-basic"
+      }
+    ]
+  },
+  "docs": {
+    "borielzxbasic/index": {
+      "id": "borielzxbasic/index",
+      "title": "Начало",
+      "description": "Оригинальная документация на английском языке находится тут.",
+      "sidebar": "borielzx"
+    },
+    "borielzxbasic/sinclair-basic-to-boriel-basic": {
+      "id": "borielzxbasic/sinclair-basic-to-boriel-basic",
+      "title": "От Sinclair ZX Basic к Boriel ZX Basic",
+      "description": "В этой статье мы объясним ряд концепций Boriel ZX Basic, ориентированных на программистов, которые пришли из классического Sinclair ZX Basic, и которые хотят начать программировать на Boriel ZX Basic. И хотя концепты полезны для классического ZX Spectrum, мы больше сосредоточимся на ZX Spectrum Next.",
+      "sidebar": "borielzx"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "Вводная Tutorial Intro",
+      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tsconf/index": {
+      "id": "tsconf/index",
+      "title": "index",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/congratulations": {
+      "id": "tutorial-basics/congratulations",
+      "title": "Congratulations!",
+      "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/create-a-blog-post": {
+      "id": "tutorial-basics/create-a-blog-post",
+      "title": "Create a Blog Post",
+      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/create-a-document": {
+      "id": "tutorial-basics/create-a-document",
+      "title": "Create a Document",
+      "description": "Documents are groups of pages connected through:",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/create-a-page": {
+      "id": "tutorial-basics/create-a-page",
+      "title": "Create a Page",
+      "description": "Add Markdown or React files to src/pages to create a standalone page:",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/deploy-your-site": {
+      "id": "tutorial-basics/deploy-your-site",
+      "title": "Deploy your site",
+      "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/markdown-features": {
+      "id": "tutorial-basics/markdown-features",
+      "title": "Markdown Features",
+      "description": "Docusaurus supports Markdown and a few additional features.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-extras/manage-docs-versions": {
+      "id": "tutorial-extras/manage-docs-versions",
+      "title": "Manage Docs Versions",
+      "description": "Docusaurus can manage multiple versions of your docs.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-extras/translate-your-site": {
+      "id": "tutorial-extras/translate-your-site",
+      "title": "Translate your site",
+      "description": "Let's translate docs/intro.md to French.",
+      "sidebar": "tutorialSidebar"
+    },
+    "zxnext/index": {
+      "id": "zxnext/index",
+      "title": "index",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "zxspectrum/index": {
+      "id": "zxspectrum/index",
+      "title": "index",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

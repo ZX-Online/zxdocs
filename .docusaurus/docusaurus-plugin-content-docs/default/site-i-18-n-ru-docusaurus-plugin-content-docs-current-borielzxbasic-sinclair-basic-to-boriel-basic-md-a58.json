@@ -1,0 +1,24 @@
+{
+  "unversionedId": "borielzxbasic/sinclair-basic-to-boriel-basic",
+  "id": "borielzxbasic/sinclair-basic-to-boriel-basic",
+  "title": "От Sinclair ZX Basic к Boriel ZX Basic",
+  "description": "В этой статье мы объясним ряд концепций Boriel ZX Basic, ориентированных на программистов, которые пришли из классического Sinclair ZX Basic, и которые хотят начать программировать на Boriel ZX Basic. И хотя концепты полезны для классического ZX Spectrum, мы больше сосредоточимся на ZX Spectrum Next.",
+  "source": "@site/i18n/ru/docusaurus-plugin-content-docs/current/borielzxbasic/sinclair-basic-to-boriel-basic.md",
+  "sourceDirName": "borielzxbasic",
+  "slug": "/borielzxbasic/sinclair-basic-to-boriel-basic",
+  "permalink": "/ru/docs/borielzxbasic/sinclair-basic-to-boriel-basic",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/borielzxbasic/sinclair-basic-to-boriel-basic.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "От Sinclair ZX Basic к Boriel ZX Basic"
+  },
+  "sidebar": "borielzx",
+  "previous": {
+    "title": "Начало",
+    "permalink": "/ru/docs/borielzxbasic/"
+  }
+}

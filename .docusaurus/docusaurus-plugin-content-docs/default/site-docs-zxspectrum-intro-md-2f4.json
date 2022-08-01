@@ -1,0 +1,20 @@
+{
+  "unversionedId": "zxspectrum/intro",
+  "id": "zxspectrum/intro",
+  "title": "intro",
+  "description": "",
+  "source": "@site/docs/zxspectrum/intro.md",
+  "sourceDirName": "zxspectrum",
+  "slug": "/zxspectrum/intro",
+  "permalink": "/docs/zxspectrum/intro",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/zxspectrum/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "intro",
+    "permalink": "/docs/zxnext/intro"
+  }
+}
