@@ -237,9 +237,9 @@
     "141": {
       "js": [
         {
-          "file": "assets/js/a589aa6a.f8247cd5.js",
-          "hash": "5707a0375029951c",
-          "publicPath": "/ru/assets/js/a589aa6a.f8247cd5.js"
+          "file": "assets/js/a589aa6a.614c9d0a.js",
+          "hash": "8d09aca8b749fd63",
+          "publicPath": "/ru/assets/js/a589aa6a.614c9d0a.js"
         }
       ]
     },
@@ -309,9 +309,9 @@
     "1303": {
       "js": [
         {
-          "file": "assets/js/runtime~main.1139adcd.js",
-          "hash": "3b1bac87d0b9b48d",
-          "publicPath": "/ru/assets/js/runtime~main.1139adcd.js"
+          "file": "assets/js/runtime~main.d2468f27.js",
+          "hash": "0fb27643f182960b",
+          "publicPath": "/ru/assets/js/runtime~main.d2468f27.js"
         }
       ]
     },

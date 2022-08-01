@@ -22,7 +22,7 @@
               "unversionedId": "borielzxbasic/index",
               "id": "borielzxbasic/index",
               "title": "Начало",
-              "description": "11",
+              "description": "Оригинальная документация на английском языке находится тут.",
               "source": "@site/i18n/ru/docusaurus-plugin-content-docs/current/borielzxbasic/index.md",
               "sourceDirName": "borielzxbasic",
               "slug": "/borielzxbasic/",
@@ -91,6 +91,30 @@
               "next": {
                 "title": "Tutorial - Basics",
                 "permalink": "/ru/docs/category/tutorial---basics"
+              }
+            },
+            {
+              "unversionedId": "tsconf/index",
+              "id": "tsconf/index",
+              "title": "index",
+              "description": "",
+              "source": "@site/docs/tsconf/index.md",
+              "sourceDirName": "tsconf",
+              "slug": "/tsconf/",
+              "permalink": "/ru/docs/tsconf/",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tsconf/index.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Translate your site",
+                "permalink": "/ru/docs/tutorial-extras/translate-your-site"
+              },
+              "next": {
+                "title": "index",
+                "permalink": "/ru/docs/zxnext/"
               }
             },
             {
@@ -303,6 +327,54 @@
               "previous": {
                 "title": "Manage Docs Versions",
                 "permalink": "/ru/docs/tutorial-extras/manage-docs-versions"
+              },
+              "next": {
+                "title": "index",
+                "permalink": "/ru/docs/tsconf/"
+              }
+            },
+            {
+              "unversionedId": "zxnext/index",
+              "id": "zxnext/index",
+              "title": "index",
+              "description": "",
+              "source": "@site/docs/zxnext/index.md",
+              "sourceDirName": "zxnext",
+              "slug": "/zxnext/",
+              "permalink": "/ru/docs/zxnext/",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/zxnext/index.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "index",
+                "permalink": "/ru/docs/tsconf/"
+              },
+              "next": {
+                "title": "index",
+                "permalink": "/ru/docs/zxspectrum/"
+              }
+            },
+            {
+              "unversionedId": "zxspectrum/index",
+              "id": "zxspectrum/index",
+              "title": "index",
+              "description": "",
+              "source": "@site/docs/zxspectrum/index.md",
+              "sourceDirName": "zxspectrum",
+              "slug": "/zxspectrum/",
+              "permalink": "/ru/docs/zxspectrum/",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/zxspectrum/index.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "index",
+                "permalink": "/ru/docs/zxnext/"
               }
             }
           ],
@@ -393,6 +465,21 @@
                   "slug": "/category/tutorial---extras",
                   "permalink": "/ru/docs/category/tutorial---extras"
                 }
+              },
+              {
+                "type": "doc",
+                "label": "index",
+                "id": "tsconf/index"
+              },
+              {
+                "type": "doc",
+                "label": "index",
+                "id": "zxnext/index"
+              },
+              {
+                "type": "doc",
+                "label": "index",
+                "id": "zxspectrum/index"
               }
             ],
             "borielzx": [
