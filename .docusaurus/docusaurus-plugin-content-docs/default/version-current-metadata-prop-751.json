@@ -145,7 +145,7 @@
     "borielzxbasic/sinclair-basic-to-boriel-basic": {
       "id": "borielzxbasic/sinclair-basic-to-boriel-basic",
       "title": "От Sinclair ZX Basic к Boriel ZX Basic",
-      "description": "В этой статье мы объясним ряд концепций Boriel ZX Basic, ориентированных на программистов, которые пришли из классического Sinclair ZX Basic, и которые хотят начать программировать на Boriel ZX Basic. И хотя концепты полезны для классического ZX Spectrum, мы больше сосредоточимся на ZX Spectrum Next.",
+      "description": "Это перевод оригинальной статьи \"De Sinclair ZX Basic a Boriel ZX Basic\" с испанского языка.",
       "sidebar": "borielzx"
     },
     "intro": {
