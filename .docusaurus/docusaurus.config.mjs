@@ -42,11 +42,11 @@ export default {
       {
         "docs": {
           "sidebarPath": "d:\\www\\zxdocs.org\\sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/blog"
         },
         "theme": {
           "customCss": "d:\\www\\zxdocs.org\\src\\css\\custom.css"
@@ -59,18 +59,17 @@ export default {
       "title": "ZX Docs",
       "logo": {
         "alt": "ZX Docs Logo",
-        "src": "img/logo.svg"
+        "src": "img/zxdocs-logo.svg"
       },
       "items": [
         {
-          "type": "doc",
-          "docId": "intro",
+          "to": "/docs/tutorial",
           "position": "left",
-          "label": "Tutorial"
+          "label": "Руководство"
         },
         {
           "to": "/blog",
-          "label": "Blog",
+          "label": "Разные статьи",
           "position": "left"
         },
         {
@@ -81,7 +80,7 @@ export default {
         },
         {
           "href": "https://github.com/ZX-Online/zxdocs",
-          "label": "Update",
+          "label": "GitHub",
           "position": "right"
         }
       ],
@@ -91,16 +90,16 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "Docs",
+          "title": "Ресурсы",
           "items": [
             {
-              "label": "Tutorial",
+              "label": "Туториал",
               "to": "/docs/intro"
             }
           ]
         },
         {
-          "title": "Community",
+          "title": "Сообщество",
           "items": [
             {
               "label": "Stack Overflow",
@@ -117,7 +116,7 @@ export default {
           ]
         },
         {
-          "title": "More",
+          "title": "Далее",
           "items": [
             {
               "label": "Blog",
@@ -125,12 +124,12 @@ export default {
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/ZX-Online/zxdocs"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2022 ZX Docs. Built with ZX Spectrum amateurs from over the world / Сделано спектрумистами со всего мира."
+      "copyright": "Copyright © 2022 ZX Docs. Создано спектрумистами со всего мира."
     },
     "prism": {
       "theme": {

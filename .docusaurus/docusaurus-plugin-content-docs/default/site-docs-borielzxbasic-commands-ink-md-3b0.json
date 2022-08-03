@@ -1,0 +1,24 @@
+{
+  "unversionedId": "borielzxbasic/commands/ink",
+  "id": "borielzxbasic/commands/ink",
+  "title": "ink",
+  "description": "Syntax",
+  "source": "@site/docs/borielzxbasic/commands/ink.md",
+  "sourceDirName": "borielzxbasic/commands",
+  "slug": "/borielzxbasic/commands/ink",
+  "permalink": "/ru/docs/borielzxbasic/commands/ink",
+  "draft": false,
+  "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/borielzxbasic/commands/ink.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "borielzx",
+  "previous": {
+    "title": "if",
+    "permalink": "/ru/docs/borielzxbasic/commands/if"
+  },
+  "next": {
+    "title": "inkey",
+    "permalink": "/ru/docs/borielzxbasic/commands/inkey"
+  }
+}

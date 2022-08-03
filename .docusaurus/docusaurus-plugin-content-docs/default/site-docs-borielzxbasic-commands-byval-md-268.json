@@ -1,0 +1,24 @@
+{
+  "unversionedId": "borielzxbasic/commands/byval",
+  "id": "borielzxbasic/commands/byval",
+  "title": "byval",
+  "description": "ByVal is a modifier used in function parameters to specify that the parameters is passed by value (that is,",
+  "source": "@site/docs/borielzxbasic/commands/byval.md",
+  "sourceDirName": "borielzxbasic/commands",
+  "slug": "/borielzxbasic/commands/byval",
+  "permalink": "/ru/docs/borielzxbasic/commands/byval",
+  "draft": false,
+  "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/borielzxbasic/commands/byval.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "borielzx",
+  "previous": {
+    "title": "byref",
+    "permalink": "/ru/docs/borielzxbasic/commands/byref"
+  },
+  "next": {
+    "title": "cast",
+    "permalink": "/ru/docs/borielzxbasic/commands/cast"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "borielzxbasic/commands/byref",
+  "id": "borielzxbasic/commands/byref",
+  "title": "byref",
+  "description": "ByRef is a modifier used in function parameters to specify that the parameters is passed by reference (that is,",
+  "source": "@site/docs/borielzxbasic/commands/byref.md",
+  "sourceDirName": "borielzxbasic/commands",
+  "slug": "/borielzxbasic/commands/byref",
+  "permalink": "/ru/docs/borielzxbasic/commands/byref",
+  "draft": false,
+  "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/borielzxbasic/commands/byref.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "borielzx",
+  "previous": {
+    "title": "bright",
+    "permalink": "/ru/docs/borielzxbasic/commands/bright"
+  },
+  "next": {
+    "title": "byval",
+    "permalink": "/ru/docs/borielzxbasic/commands/byval"
+  }
+}

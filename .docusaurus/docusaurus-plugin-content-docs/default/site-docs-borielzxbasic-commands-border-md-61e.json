@@ -1,0 +1,24 @@
+{
+  "unversionedId": "borielzxbasic/commands/border",
+  "id": "borielzxbasic/commands/border",
+  "title": "border",
+  "description": "Syntax",
+  "source": "@site/docs/borielzxbasic/commands/border.md",
+  "sourceDirName": "borielzxbasic/commands",
+  "slug": "/borielzxbasic/commands/border",
+  "permalink": "/ru/docs/borielzxbasic/commands/border",
+  "draft": false,
+  "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/borielzxbasic/commands/border.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "borielzx",
+  "previous": {
+    "title": "bold",
+    "permalink": "/ru/docs/borielzxbasic/commands/bold"
+  },
+  "next": {
+    "title": "bright",
+    "permalink": "/ru/docs/borielzxbasic/commands/bright"
+  }
+}

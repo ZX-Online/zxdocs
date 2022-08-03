@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/ru/__docusaurus/debug',
+    component: ComponentCreator('/ru/__docusaurus/debug', 'b65'),
+    exact: true
+  },
+  {
+    path: '/ru/__docusaurus/debug/config',
+    component: ComponentCreator('/ru/__docusaurus/debug/config', '009'),
+    exact: true
+  },
+  {
+    path: '/ru/__docusaurus/debug/content',
+    component: ComponentCreator('/ru/__docusaurus/debug/content', 'a45'),
+    exact: true
+  },
+  {
+    path: '/ru/__docusaurus/debug/globalData',
+    component: ComponentCreator('/ru/__docusaurus/debug/globalData', '551'),
+    exact: true
+  },
+  {
+    path: '/ru/__docusaurus/debug/metadata',
+    component: ComponentCreator('/ru/__docusaurus/debug/metadata', '520'),
+    exact: true
+  },
+  {
+    path: '/ru/__docusaurus/debug/registry',
+    component: ComponentCreator('/ru/__docusaurus/debug/registry', '94a'),
+    exact: true
+  },
+  {
+    path: '/ru/__docusaurus/debug/routes',
+    component: ComponentCreator('/ru/__docusaurus/debug/routes', '239'),
+    exact: true
+  },
+  {
     path: '/ru/blog',
     component: ComponentCreator('/ru/blog', '5c5'),
     exact: true
@@ -64,7 +99,7 @@ export default [
   },
   {
     path: '/ru/docs',
-    component: ComponentCreator('/ru/docs', 'c4f'),
+    component: ComponentCreator('/ru/docs', '660'),
     routes: [
       {
         path: '/ru/docs/borielzxbasic/',
@@ -104,9 +139,9 @@ export default [
       },
       {
         path: '/ru/docs/tsconf/',
-        component: ComponentCreator('/ru/docs/tsconf/', 'a4c'),
+        component: ComponentCreator('/ru/docs/tsconf/', 'bae'),
         exact: true,
-        sidebar: "tutorialSidebar"
+        sidebar: "tsconf"
       },
       {
         path: '/ru/docs/tutorial-basics/congratulations',
@@ -157,16 +192,22 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/ru/docs/zxnext/',
-        component: ComponentCreator('/ru/docs/zxnext/', '184'),
+        path: '/ru/docs/tutorial/',
+        component: ComponentCreator('/ru/docs/tutorial/', '7b5'),
         exact: true,
-        sidebar: "tutorialSidebar"
+        sidebar: "tutorial"
+      },
+      {
+        path: '/ru/docs/zxnext/',
+        component: ComponentCreator('/ru/docs/zxnext/', 'b4b'),
+        exact: true,
+        sidebar: "zxnext"
       },
       {
         path: '/ru/docs/zxspectrum/',
-        component: ComponentCreator('/ru/docs/zxspectrum/', '09c'),
+        component: ComponentCreator('/ru/docs/zxspectrum/', '6aa'),
         exact: true,
-        sidebar: "tutorialSidebar"
+        sidebar: "zxspectrum"
       }
     ]
   },

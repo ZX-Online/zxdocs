@@ -1,0 +1,24 @@
+{
+  "unversionedId": "borielzxbasic/commands/draw",
+  "id": "borielzxbasic/commands/draw",
+  "title": "draw",
+  "description": "Syntax",
+  "source": "@site/docs/borielzxbasic/commands/draw.md",
+  "sourceDirName": "borielzxbasic/commands",
+  "slug": "/borielzxbasic/commands/draw",
+  "permalink": "/ru/docs/borielzxbasic/commands/draw",
+  "draft": false,
+  "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/borielzxbasic/commands/draw.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "borielzx",
+  "previous": {
+    "title": "do",
+    "permalink": "/ru/docs/borielzxbasic/commands/do"
+  },
+  "next": {
+    "title": "END",
+    "permalink": "/ru/docs/borielzxbasic/commands/end"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "borielzxbasic/commands/input",
+  "id": "borielzxbasic/commands/input",
+  "title": "input",
+  "description": "Issues a cursor to the screen, waits for the user to type and returns the user's input when the user presses ENTER.",
+  "source": "@site/docs/borielzxbasic/commands/input.md",
+  "sourceDirName": "borielzxbasic/commands",
+  "slug": "/borielzxbasic/commands/input",
+  "permalink": "/ru/docs/borielzxbasic/commands/input",
+  "draft": false,
+  "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/borielzxbasic/commands/input.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "borielzx",
+  "previous": {
+    "title": "inkey",
+    "permalink": "/ru/docs/borielzxbasic/commands/inkey"
+  },
+  "next": {
+    "title": "int",
+    "permalink": "/ru/docs/borielzxbasic/commands/int"
+  }
+}

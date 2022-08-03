@@ -1,0 +1,24 @@
+{
+  "unversionedId": "borielzxbasic/commands/load",
+  "id": "borielzxbasic/commands/load",
+  "title": "load",
+  "description": "Syntax",
+  "source": "@site/docs/borielzxbasic/commands/load.md",
+  "sourceDirName": "borielzxbasic/commands",
+  "slug": "/borielzxbasic/commands/load",
+  "permalink": "/ru/docs/borielzxbasic/commands/load",
+  "draft": false,
+  "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/borielzxbasic/commands/load.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "borielzx",
+  "previous": {
+    "title": "let",
+    "permalink": "/ru/docs/borielzxbasic/commands/let"
+  },
+  "next": {
+    "title": "over",
+    "permalink": "/ru/docs/borielzxbasic/commands/over"
+  }
+}

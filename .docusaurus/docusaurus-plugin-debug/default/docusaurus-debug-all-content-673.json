@@ -10,8 +10,8 @@
           "className": "docs-version-current",
           "path": "/ru/docs",
           "tagsPath": "/ru/docs/tags",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
-          "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/ru/docusaurus-plugin-content-docs/current",
+          "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs",
+          "editUrlLocalized": "https://github.com/ZX-Online/zxdocs/tree/main/docs/i18n/ru/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
           "sidebarFilePath": "d:\\www\\zxdocs.org\\sidebars.js",
@@ -28,7 +28,7 @@
               "slug": "/borielzxbasic/",
               "permalink": "/ru/docs/borielzxbasic/",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/borielzxbasic/index.md",
+              "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/borielzxbasic/index.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -52,7 +52,7 @@
               "slug": "/borielzxbasic/sinclair-basic-to-boriel-basic",
               "permalink": "/ru/docs/borielzxbasic/sinclair-basic-to-boriel-basic",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/borielzxbasic/sinclair-basic-to-boriel-basic.md",
+              "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/borielzxbasic/sinclair-basic-to-boriel-basic.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -76,7 +76,7 @@
               "slug": "/intro",
               "permalink": "/ru/docs/intro",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+              "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/intro.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -103,19 +103,11 @@
               "slug": "/tsconf/",
               "permalink": "/ru/docs/tsconf/",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tsconf/index.md",
+              "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/tsconf/index.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Translate your site",
-                "permalink": "/ru/docs/tutorial-extras/translate-your-site"
-              },
-              "next": {
-                "title": "index",
-                "permalink": "/ru/docs/zxnext/"
-              }
+              "sidebar": "tsconf"
             },
             {
               "unversionedId": "tutorial-basics/congratulations",
@@ -127,7 +119,7 @@
               "slug": "/tutorial-basics/congratulations",
               "permalink": "/ru/docs/tutorial-basics/congratulations",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/congratulations.md",
+              "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/tutorial-basics/congratulations.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 6,
@@ -154,7 +146,7 @@
               "slug": "/tutorial-basics/create-a-blog-post",
               "permalink": "/ru/docs/tutorial-basics/create-a-blog-post",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-blog-post.md",
+              "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/tutorial-basics/create-a-blog-post.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -181,7 +173,7 @@
               "slug": "/tutorial-basics/create-a-document",
               "permalink": "/ru/docs/tutorial-basics/create-a-document",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-document.md",
+              "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/tutorial-basics/create-a-document.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -208,7 +200,7 @@
               "slug": "/tutorial-basics/create-a-page",
               "permalink": "/ru/docs/tutorial-basics/create-a-page",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-page.md",
+              "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/tutorial-basics/create-a-page.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -235,7 +227,7 @@
               "slug": "/tutorial-basics/deploy-your-site",
               "permalink": "/ru/docs/tutorial-basics/deploy-your-site",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/deploy-your-site.md",
+              "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/tutorial-basics/deploy-your-site.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 5,
@@ -262,7 +254,7 @@
               "slug": "/tutorial-basics/markdown-features",
               "permalink": "/ru/docs/tutorial-basics/markdown-features",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/markdown-features.mdx",
+              "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/tutorial-basics/markdown-features.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -289,7 +281,7 @@
               "slug": "/tutorial-extras/manage-docs-versions",
               "permalink": "/ru/docs/tutorial-extras/manage-docs-versions",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/manage-docs-versions.md",
+              "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/tutorial-extras/manage-docs-versions.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -316,7 +308,7 @@
               "slug": "/tutorial-extras/translate-your-site",
               "permalink": "/ru/docs/tutorial-extras/translate-your-site",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/translate-your-site.md",
+              "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/tutorial-extras/translate-your-site.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -334,6 +326,22 @@
               }
             },
             {
+              "unversionedId": "tutorial/index",
+              "id": "tutorial/index",
+              "title": "index",
+              "description": "",
+              "source": "@site/docs/tutorial/index.md",
+              "sourceDirName": "tutorial",
+              "slug": "/tutorial/",
+              "permalink": "/ru/docs/tutorial/",
+              "draft": false,
+              "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/tutorial/index.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorial"
+            },
+            {
               "unversionedId": "zxnext/index",
               "id": "zxnext/index",
               "title": "index",
@@ -343,19 +351,11 @@
               "slug": "/zxnext/",
               "permalink": "/ru/docs/zxnext/",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/zxnext/index.md",
+              "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/zxnext/index.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "index",
-                "permalink": "/ru/docs/tsconf/"
-              },
-              "next": {
-                "title": "index",
-                "permalink": "/ru/docs/zxspectrum/"
-              }
+              "sidebar": "zxnext"
             },
             {
               "unversionedId": "zxspectrum/index",
@@ -367,15 +367,11 @@
               "slug": "/zxspectrum/",
               "permalink": "/ru/docs/zxspectrum/",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/zxspectrum/index.md",
+              "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/zxspectrum/index.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "index",
-                "permalink": "/ru/docs/zxnext/"
-              }
+              "sidebar": "zxspectrum"
             }
           ],
           "drafts": [],
@@ -474,6 +470,11 @@
               {
                 "type": "doc",
                 "label": "index",
+                "id": "tutorial/index"
+              },
+              {
+                "type": "doc",
+                "label": "index",
                 "id": "zxnext/index"
               },
               {
@@ -491,6 +492,30 @@
                 "type": "doc",
                 "id": "borielzxbasic/sinclair-basic-to-boriel-basic"
               }
+            ],
+            "zxspectrum": [
+              {
+                "type": "doc",
+                "id": "zxspectrum/index"
+              }
+            ],
+            "zxnext": [
+              {
+                "type": "doc",
+                "id": "zxnext/index"
+              }
+            ],
+            "tsconf": [
+              {
+                "type": "doc",
+                "id": "tsconf/index"
+              }
+            ],
+            "tutorial": [
+              {
+                "type": "doc",
+                "id": "tutorial/index"
+              }
             ]
           }
         }
@@ -505,7 +530,7 @@
           "id": "welcome",
           "metadata": {
             "permalink": "/ru/blog/welcome",
-            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
+            "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/blog/blog/2021-08-26-welcome/index.md",
             "source": "@site/blog/2021-08-26-welcome/index.md",
             "title": "Welcome",
             "description": "Docusaurus blogging features are powered by the blog plugin.",
@@ -567,7 +592,7 @@
           "id": "mdx-blog-post",
           "metadata": {
             "permalink": "/ru/blog/mdx-blog-post",
-            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
+            "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/blog/blog/2021-08-01-mdx-blog-post.mdx",
             "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
             "title": "MDX Blog Post",
             "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
@@ -615,7 +640,7 @@
           "id": "long-blog-post",
           "metadata": {
             "permalink": "/ru/blog/long-blog-post",
-            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-29-long-blog-post.md",
+            "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/blog/blog/2019-05-29-long-blog-post.md",
             "source": "@site/blog/2019-05-29-long-blog-post.md",
             "title": "Long Blog Post",
             "description": "This is the summary of a very long blog post,",
@@ -666,7 +691,7 @@
           "id": "first-blog-post",
           "metadata": {
             "permalink": "/ru/blog/first-blog-post",
-            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-28-first-blog-post.md",
+            "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/blog/blog/2019-05-28-first-blog-post.md",
             "source": "@site/blog/2019-05-28-first-blog-post.md",
             "title": "First Blog Post",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",

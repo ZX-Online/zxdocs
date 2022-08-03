@@ -8,17 +8,9 @@
   "slug": "/tsconf/",
   "permalink": "/ru/docs/tsconf/",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tsconf/index.md",
+  "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/tsconf/index.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
-  "sidebar": "tutorialSidebar",
-  "previous": {
-    "title": "Translate your site",
-    "permalink": "/ru/docs/tutorial-extras/translate-your-site"
-  },
-  "next": {
-    "title": "index",
-    "permalink": "/ru/docs/zxnext/"
-  }
+  "sidebar": "tsconf"
 }

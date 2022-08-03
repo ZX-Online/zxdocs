@@ -249,5 +249,35 @@
   "theme.docs.sidebar.expandButtonAriaLabel": {
     "message": "Expand sidebar",
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "__site_tagline__": {
+    "message": "__site_tagline__"
+  },
+  "ZX Spectrum Hardware": {
+    "message": "ZX Spectrum Hardware"
+  },
+  "ZX Spectrum Classic": {
+    "message": "ZX Spectrum Classic"
+  },
+  "Hardware and architecture of \"Classic\" models of ZX Spectrum developed in 1982-199x": {
+    "message": "Hardware and architecture of \"Classic\" models of ZX Spectrum developed in 1982-199x"
+  },
+  "ZX Spectrum Next": {
+    "message": "ZX Spectrum Next"
+  },
+  "Hardware and architecture of today's official ZX Spectrum successor": {
+    "message": "Hardware and architecture of today's official ZX Spectrum successor"
+  },
+  "ZX Evolution / TS Conf": {
+    "message": "ZX Evolution / TS Conf"
+  },
+  "Hardware and architecture of the most modern and advanced ZX Spectrum clone in the ex-USSR area": {
+    "message": "Hardware and architecture of the most modern and advanced ZX Spectrum clone in the ex-USSR area"
+  },
+  "Software & IDE": {
+    "message": "Software & IDE"
+  },
+  "Boriel ZX Basic": {
+    "message": "Boriel ZX Basic"
   }
 }

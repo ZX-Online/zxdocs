@@ -1,0 +1,24 @@
+{
+  "unversionedId": "borielzxbasic/commands/sqr",
+  "id": "borielzxbasic/commands/sqr",
+  "title": "sqr",
+  "description": "Syntax",
+  "source": "@site/docs/borielzxbasic/commands/sqr.md",
+  "sourceDirName": "borielzxbasic/commands",
+  "slug": "/borielzxbasic/commands/sqr",
+  "permalink": "/ru/docs/borielzxbasic/commands/sqr",
+  "draft": false,
+  "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/borielzxbasic/commands/sqr.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "borielzx",
+  "previous": {
+    "title": "sin",
+    "permalink": "/ru/docs/borielzxbasic/commands/sin"
+  },
+  "next": {
+    "title": "str",
+    "permalink": "/ru/docs/borielzxbasic/commands/str"
+  }
+}

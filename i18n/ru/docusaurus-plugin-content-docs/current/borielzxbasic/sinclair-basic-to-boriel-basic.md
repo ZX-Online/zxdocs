@@ -5,8 +5,6 @@ title: От Sinclair ZX Basic к Boriel ZX Basic
 
 > Это перевод [оригинальной статьи "De Sinclair ZX Basic a Boriel ZX Basic"](https://specnext.dev/es/2022/07/30/de-sinclair-zx-basic-a-boriel-zx-basic/) с испанского языка.
 
-# От Sinclair ZX Basic к Boriel ZX Basic
-
 В этой статье мы объясним ряд концепций Boriel ZX Basic, ориентированных на программистов, которые пришли из классического Sinclair ZX Basic, и которые хотят начать программировать на Boriel ZX Basic. И хотя концепты полезны для классического ZX Spectrum, мы больше сосредоточимся на ZX Spectrum Next.
 
 Невозможно обобщить или объяснить все в простой статье, и это не тот путь, который можно пройти за 2 минуты, поэтому в этом тексте мы объясним общие концепции, не вдаваясь в излишние подробности или продвинутые вопросы.

@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "ZX Docs",
+    "description": "The title in the navbar"
+  },
+  "item.label.Tutorial": {
+    "message": "Руководство",
+    "description": "Navbar item with label Tutorial"
+  },
+  "item.label.Blog": {
+    "message": "Разные статьи",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.Update": {
+    "message": "GitHub",
+    "description": "Navbar item with label Update"
+  }
+}

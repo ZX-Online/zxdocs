@@ -1,0 +1,24 @@
+{
+  "unversionedId": "borielzxbasic/commands/chr",
+  "id": "borielzxbasic/commands/chr",
+  "title": "chr",
+  "description": "Syntax",
+  "source": "@site/docs/borielzxbasic/commands/chr.md",
+  "sourceDirName": "borielzxbasic/commands",
+  "slug": "/borielzxbasic/commands/chr",
+  "permalink": "/ru/docs/borielzxbasic/commands/chr",
+  "draft": false,
+  "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/borielzxbasic/commands/chr.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "borielzx",
+  "previous": {
+    "title": "cast",
+    "permalink": "/ru/docs/borielzxbasic/commands/cast"
+  },
+  "next": {
+    "title": "circle",
+    "permalink": "/ru/docs/borielzxbasic/commands/circle"
+  }
+}

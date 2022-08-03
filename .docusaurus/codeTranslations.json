@@ -62,5 +62,20 @@
   "theme.navbar.mobileVersionsDropdown.label": "Версии",
   "theme.tags.tagsListLabel": "Теги:",
   "theme.tags.tagsPageLink": "Посмотреть все теги",
-  "theme.tags.tagsPageTitle": "Теги"
+  "theme.tags.tagsPageTitle": "Теги",
+  "__site_tagline1__": "ZX Spectrum - отличная ретро-платформа и гостеприимное комьюнити. Но как начать разрабатывать софт под ZX Spectrum, не потратив месяцы на изучение материала?",
+  "__site_tagline2__": "Мы сделали этот сайт для тех, кто питает тёплые чувства к пиксельной графике и 8-битной музыке и решил ворваться в наш креативный мир.",
+  "__site_tagline3__": "Тут мы собираем наиболее актуальную справочную информацию для разработчиков и новости платформы и переводим на русский, английский и испанский языки, чтобы сделать её максимально доступной для всех.",
+  "__site_tagline4__": "Итак, с чего начнём?",
+  "ZX Spectrum Hardware": "Железо ZX Spectrum",
+  "ZX Spectrum Classic": "ZX Spectrum Classic",
+  "Hardware and architecture of \"Classic\" models of ZX Spectrum developed in 1982-199x": "Железо и архитектура \"классических\" моделей ZX Spectrum, разработанных в 1982-199x годах",
+  "ZX Spectrum Next": "ZX Spectrum Next",
+  "Hardware and architecture of today's official ZX Spectrum successor": "Железо и архитектура современного официального наследника ZX Spectrum",
+  "ZX Evolution / TS Conf": "ZX Evolution / TS Conf",
+  "Hardware and architecture of the most modern and advanced ZX Spectrum clone in the ex-USSR area": "Железо и архитектура наиболее современного и продвинутого клона ZX Spectrum, разработанного в странах бывшего СССР",
+  "Software & IDE": "Программное обеспечение и средства разработки (IDE)",
+  "Boriel ZX Basic": "Boriel ZX Basic",
+  "Read": "Читать",
+  "Modern replacement for the Sinclair ZX Basic. Compilable and very fast.": "Современная замена Sinclair ZX Basic. Компилируемый и очень быстрый."
 }

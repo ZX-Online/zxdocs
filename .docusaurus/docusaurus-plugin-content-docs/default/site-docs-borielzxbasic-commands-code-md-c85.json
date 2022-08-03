@@ -1,0 +1,24 @@
+{
+  "unversionedId": "borielzxbasic/commands/code",
+  "id": "borielzxbasic/commands/code",
+  "title": "code",
+  "description": "Syntax",
+  "source": "@site/docs/borielzxbasic/commands/code.md",
+  "sourceDirName": "borielzxbasic/commands",
+  "slug": "/borielzxbasic/commands/code",
+  "permalink": "/ru/docs/borielzxbasic/commands/code",
+  "draft": false,
+  "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/borielzxbasic/commands/code.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "borielzx",
+  "previous": {
+    "title": "cls",
+    "permalink": "/ru/docs/borielzxbasic/commands/cls"
+  },
+  "next": {
+    "title": "const",
+    "permalink": "/ru/docs/borielzxbasic/commands/const"
+  }
+}

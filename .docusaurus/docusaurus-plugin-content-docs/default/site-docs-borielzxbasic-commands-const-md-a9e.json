@@ -1,0 +1,24 @@
+{
+  "unversionedId": "borielzxbasic/commands/const",
+  "id": "borielzxbasic/commands/const",
+  "title": "const",
+  "description": "Syntax",
+  "source": "@site/docs/borielzxbasic/commands/const.md",
+  "sourceDirName": "borielzxbasic/commands",
+  "slug": "/borielzxbasic/commands/const",
+  "permalink": "/ru/docs/borielzxbasic/commands/const",
+  "draft": false,
+  "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/borielzxbasic/commands/const.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "borielzx",
+  "previous": {
+    "title": "code",
+    "permalink": "/ru/docs/borielzxbasic/commands/code"
+  },
+  "next": {
+    "title": "continue",
+    "permalink": "/ru/docs/borielzxbasic/commands/continue"
+  }
+}

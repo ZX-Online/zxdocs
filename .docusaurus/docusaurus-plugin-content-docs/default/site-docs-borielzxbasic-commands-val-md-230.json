@@ -1,0 +1,24 @@
+{
+  "unversionedId": "borielzxbasic/commands/val",
+  "id": "borielzxbasic/commands/val",
+  "title": "val",
+  "description": "Syntax",
+  "source": "@site/docs/borielzxbasic/commands/val.md",
+  "sourceDirName": "borielzxbasic/commands",
+  "slug": "/borielzxbasic/commands/val",
+  "permalink": "/ru/docs/borielzxbasic/commands/val",
+  "draft": false,
+  "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/borielzxbasic/commands/val.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "borielzx",
+  "previous": {
+    "title": "ubound",
+    "permalink": "/ru/docs/borielzxbasic/commands/ubound"
+  },
+  "next": {
+    "title": "while",
+    "permalink": "/ru/docs/borielzxbasic/commands/while"
+  }
+}

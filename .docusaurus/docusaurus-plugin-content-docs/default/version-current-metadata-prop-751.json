@@ -110,6 +110,12 @@
       {
         "type": "link",
         "label": "index",
+        "href": "/ru/docs/tutorial/",
+        "docId": "tutorial/index"
+      },
+      {
+        "type": "link",
+        "label": "index",
         "href": "/ru/docs/zxnext/",
         "docId": "zxnext/index"
       },
@@ -132,6 +138,38 @@
         "label": "От Sinclair ZX Basic к Boriel ZX Basic",
         "href": "/ru/docs/borielzxbasic/sinclair-basic-to-boriel-basic",
         "docId": "borielzxbasic/sinclair-basic-to-boriel-basic"
+      }
+    ],
+    "zxspectrum": [
+      {
+        "type": "link",
+        "label": "index",
+        "href": "/ru/docs/zxspectrum/",
+        "docId": "zxspectrum/index"
+      }
+    ],
+    "zxnext": [
+      {
+        "type": "link",
+        "label": "index",
+        "href": "/ru/docs/zxnext/",
+        "docId": "zxnext/index"
+      }
+    ],
+    "tsconf": [
+      {
+        "type": "link",
+        "label": "index",
+        "href": "/ru/docs/tsconf/",
+        "docId": "tsconf/index"
+      }
+    ],
+    "tutorial": [
+      {
+        "type": "link",
+        "label": "index",
+        "href": "/ru/docs/tutorial/",
+        "docId": "tutorial/index"
       }
     ]
   },
@@ -158,7 +196,7 @@
       "id": "tsconf/index",
       "title": "index",
       "description": "",
-      "sidebar": "tutorialSidebar"
+      "sidebar": "tsconf"
     },
     "tutorial-basics/congratulations": {
       "id": "tutorial-basics/congratulations",
@@ -208,17 +246,23 @@
       "description": "Let's translate docs/intro.md to French.",
       "sidebar": "tutorialSidebar"
     },
+    "tutorial/index": {
+      "id": "tutorial/index",
+      "title": "index",
+      "description": "",
+      "sidebar": "tutorial"
+    },
     "zxnext/index": {
       "id": "zxnext/index",
       "title": "index",
       "description": "",
-      "sidebar": "tutorialSidebar"
+      "sidebar": "zxnext"
     },
     "zxspectrum/index": {
       "id": "zxspectrum/index",
       "title": "index",
       "description": "",
-      "sidebar": "tutorialSidebar"
+      "sidebar": "zxspectrum"
     }
   }
 }

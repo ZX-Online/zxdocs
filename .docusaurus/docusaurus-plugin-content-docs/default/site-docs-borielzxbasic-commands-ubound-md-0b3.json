@@ -1,0 +1,24 @@
+{
+  "unversionedId": "borielzxbasic/commands/ubound",
+  "id": "borielzxbasic/commands/ubound",
+  "title": "ubound",
+  "description": "Syntax",
+  "source": "@site/docs/borielzxbasic/commands/ubound.md",
+  "sourceDirName": "borielzxbasic/commands",
+  "slug": "/borielzxbasic/commands/ubound",
+  "permalink": "/ru/docs/borielzxbasic/commands/ubound",
+  "draft": false,
+  "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/borielzxbasic/commands/ubound.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "borielzx",
+  "previous": {
+    "title": "tan",
+    "permalink": "/ru/docs/borielzxbasic/commands/tan"
+  },
+  "next": {
+    "title": "val",
+    "permalink": "/ru/docs/borielzxbasic/commands/val"
+  }
+}
