@@ -1,19 +1,19 @@
 {
-  "permalink": "/ru/blog/long-blog-post",
+  "permalink": "/blog/long-blog-post",
   "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/blog/blog/2019-05-29-long-blog-post.md",
   "source": "@site/blog/2019-05-29-long-blog-post.md",
   "title": "Long Blog Post",
   "description": "This is the summary of a very long blog post,",
   "date": "2019-05-29T00:00:00.000Z",
-  "formattedDate": "29 мая 2019 г.",
+  "formattedDate": "May 29, 2019",
   "tags": [
     {
       "label": "hello",
-      "permalink": "/ru/blog/tags/hello"
+      "permalink": "/blog/tags/hello"
     },
     {
       "label": "docusaurus",
-      "permalink": "/ru/blog/tags/docusaurus"
+      "permalink": "/blog/tags/docusaurus"
     }
   ],
   "readingTime": 2.05,
@@ -38,10 +38,10 @@
   },
   "prevItem": {
     "title": "MDX Blog Post",
-    "permalink": "/ru/blog/mdx-blog-post"
+    "permalink": "/blog/mdx-blog-post"
   },
   "nextItem": {
     "title": "First Blog Post",
-    "permalink": "/ru/blog/first-blog-post"
+    "permalink": "/blog/first-blog-post"
   }
 }

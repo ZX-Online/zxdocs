@@ -16,23 +16,23 @@
         "items": [
           {
             "type": "link",
-            "label": "Начало",
-            "href": "/ru/docs/borielzxbasic/",
+            "label": "Intro",
+            "href": "/docs/borielzxbasic/",
             "docId": "borielzxbasic/index"
           },
           {
             "type": "link",
-            "label": "От Sinclair ZX Basic к Boriel ZX Basic",
-            "href": "/ru/docs/borielzxbasic/sinclair-basic-to-boriel-basic",
+            "label": "sinclair-basic-to-boriel-basic",
+            "href": "/docs/borielzxbasic/sinclair-basic-to-boriel-basic",
             "docId": "borielzxbasic/sinclair-basic-to-boriel-basic"
           }
         ],
-        "href": "/ru/docs/category/boriel-zx-basic"
+        "href": "/docs/category/boriel-zx-basic"
       },
       {
         "type": "link",
-        "label": "Вводная Tutorial Intro",
-        "href": "/ru/docs/intro",
+        "label": "Tutorial Intro",
+        "href": "/docs/intro",
         "docId": "intro"
       },
       {
@@ -44,41 +44,41 @@
           {
             "type": "link",
             "label": "Create a Page",
-            "href": "/ru/docs/tutorial-basics/create-a-page",
+            "href": "/docs/tutorial-basics/create-a-page",
             "docId": "tutorial-basics/create-a-page"
           },
           {
             "type": "link",
             "label": "Create a Document",
-            "href": "/ru/docs/tutorial-basics/create-a-document",
+            "href": "/docs/tutorial-basics/create-a-document",
             "docId": "tutorial-basics/create-a-document"
           },
           {
             "type": "link",
             "label": "Create a Blog Post",
-            "href": "/ru/docs/tutorial-basics/create-a-blog-post",
+            "href": "/docs/tutorial-basics/create-a-blog-post",
             "docId": "tutorial-basics/create-a-blog-post"
           },
           {
             "type": "link",
             "label": "Markdown Features",
-            "href": "/ru/docs/tutorial-basics/markdown-features",
+            "href": "/docs/tutorial-basics/markdown-features",
             "docId": "tutorial-basics/markdown-features"
           },
           {
             "type": "link",
             "label": "Deploy your site",
-            "href": "/ru/docs/tutorial-basics/deploy-your-site",
+            "href": "/docs/tutorial-basics/deploy-your-site",
             "docId": "tutorial-basics/deploy-your-site"
           },
           {
             "type": "link",
             "label": "Congratulations!",
-            "href": "/ru/docs/tutorial-basics/congratulations",
+            "href": "/docs/tutorial-basics/congratulations",
             "docId": "tutorial-basics/congratulations"
           }
         ],
-        "href": "/ru/docs/category/tutorial---basics"
+        "href": "/docs/category/tutorial---basics"
       },
       {
         "type": "category",
@@ -89,54 +89,54 @@
           {
             "type": "link",
             "label": "Manage Docs Versions",
-            "href": "/ru/docs/tutorial-extras/manage-docs-versions",
+            "href": "/docs/tutorial-extras/manage-docs-versions",
             "docId": "tutorial-extras/manage-docs-versions"
           },
           {
             "type": "link",
             "label": "Translate your site",
-            "href": "/ru/docs/tutorial-extras/translate-your-site",
+            "href": "/docs/tutorial-extras/translate-your-site",
             "docId": "tutorial-extras/translate-your-site"
           }
         ],
-        "href": "/ru/docs/category/tutorial---extras"
+        "href": "/docs/category/tutorial---extras"
       },
       {
         "type": "link",
         "label": "index",
-        "href": "/ru/docs/tsconf/",
+        "href": "/docs/tsconf/",
         "docId": "tsconf/index"
       },
       {
         "type": "link",
         "label": "index",
-        "href": "/ru/docs/tutorial/",
+        "href": "/docs/tutorial/",
         "docId": "tutorial/index"
       },
       {
         "type": "link",
         "label": "index",
-        "href": "/ru/docs/zxnext/",
+        "href": "/docs/zxnext/",
         "docId": "zxnext/index"
       },
       {
         "type": "link",
         "label": "index",
-        "href": "/ru/docs/zxspectrum/",
+        "href": "/docs/zxspectrum/",
         "docId": "zxspectrum/index"
       }
     ],
     "borielzx": [
       {
         "type": "link",
-        "label": "Начало",
-        "href": "/ru/docs/borielzxbasic/",
+        "label": "Intro",
+        "href": "/docs/borielzxbasic/",
         "docId": "borielzxbasic/index"
       },
       {
         "type": "link",
-        "label": "От Sinclair ZX Basic к Boriel ZX Basic",
-        "href": "/ru/docs/borielzxbasic/sinclair-basic-to-boriel-basic",
+        "label": "sinclair-basic-to-boriel-basic",
+        "href": "/docs/borielzxbasic/sinclair-basic-to-boriel-basic",
         "docId": "borielzxbasic/sinclair-basic-to-boriel-basic"
       }
     ],
@@ -144,7 +144,7 @@
       {
         "type": "link",
         "label": "index",
-        "href": "/ru/docs/zxspectrum/",
+        "href": "/docs/zxspectrum/",
         "docId": "zxspectrum/index"
       }
     ],
@@ -152,7 +152,7 @@
       {
         "type": "link",
         "label": "index",
-        "href": "/ru/docs/zxnext/",
+        "href": "/docs/zxnext/",
         "docId": "zxnext/index"
       }
     ],
@@ -160,7 +160,7 @@
       {
         "type": "link",
         "label": "index",
-        "href": "/ru/docs/tsconf/",
+        "href": "/docs/tsconf/",
         "docId": "tsconf/index"
       }
     ],
@@ -168,7 +168,7 @@
       {
         "type": "link",
         "label": "index",
-        "href": "/ru/docs/tutorial/",
+        "href": "/docs/tutorial/",
         "docId": "tutorial/index"
       }
     ]
@@ -176,19 +176,19 @@
   "docs": {
     "borielzxbasic/index": {
       "id": "borielzxbasic/index",
-      "title": "Начало",
-      "description": "Оригинальная документация на английском языке находится тут.",
+      "title": "Intro",
+      "description": "This page is dummy. Original Boriel ZX Basic in english is located here.",
       "sidebar": "borielzx"
     },
     "borielzxbasic/sinclair-basic-to-boriel-basic": {
       "id": "borielzxbasic/sinclair-basic-to-boriel-basic",
-      "title": "От Sinclair ZX Basic к Boriel ZX Basic",
-      "description": "Это перевод оригинальной статьи \"De Sinclair ZX Basic a Boriel ZX Basic\" с испанского языка.",
+      "title": "sinclair-basic-to-boriel-basic",
+      "description": "",
       "sidebar": "borielzx"
     },
     "intro": {
       "id": "intro",
-      "title": "Вводная Tutorial Intro",
+      "title": "Tutorial Intro",
       "description": "Let's discover Docusaurus in less than 5 minutes.",
       "sidebar": "tutorialSidebar"
     },

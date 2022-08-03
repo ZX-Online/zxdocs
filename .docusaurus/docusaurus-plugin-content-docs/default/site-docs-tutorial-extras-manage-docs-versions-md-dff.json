@@ -6,7 +6,7 @@
   "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
   "sourceDirName": "tutorial-extras",
   "slug": "/tutorial-extras/manage-docs-versions",
-  "permalink": "/ru/docs/tutorial-extras/manage-docs-versions",
+  "permalink": "/docs/tutorial-extras/manage-docs-versions",
   "draft": false,
   "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/tutorial-extras/manage-docs-versions.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Tutorial - Extras",
-    "permalink": "/ru/docs/category/tutorial---extras"
+    "permalink": "/docs/category/tutorial---extras"
   },
   "next": {
     "title": "Translate your site",
-    "permalink": "/ru/docs/tutorial-extras/translate-your-site"
+    "permalink": "/docs/tutorial-extras/translate-your-site"
   }
 }

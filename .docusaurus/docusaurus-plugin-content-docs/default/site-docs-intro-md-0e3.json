@@ -6,9 +6,9 @@
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/es/docs/intro",
+  "permalink": "/docs/intro",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+  "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/intro.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "sinclair-basic-to-boriel-basic",
-    "permalink": "/es/docs/borielzxbasic/sinclair-basic-to-boriel-basic"
+    "permalink": "/docs/borielzxbasic/sinclair-basic-to-boriel-basic"
   },
   "next": {
     "title": "Tutorial - Basics",
-    "permalink": "/es/docs/category/tutorial---basics"
+    "permalink": "/docs/category/tutorial---basics"
   }
 }
