@@ -59,15 +59,21 @@ function HomepageHeader() {
 				<div className="card__header">
 					<h3><Translate>ZX Spectrum Next</Translate></h3>
 				</div>
+				<div class="card__image">
+   					<img
+       					src="img/main/zxnext.png"
+       					alt="ZX Spectrum Next"
+       					title="" />
+   				</div>				
 				<div className="card__body text--left">
 					<p><Translate>Hardware and architecture of today's official ZX Spectrum successor</Translate></p>
-					<div className="text--right">
-						<Link
-		            		className="button button--secondary"
-    		        		to="/docs/zxnext">
-								<Translate>Read</Translate>
-	    		    	</Link>
-					</div>
+				</div>
+				<div className="card__footer">
+					<Link
+		            	className="button button--secondary"
+    		        	to="/docs/zxnext">
+							<Translate>Read</Translate>
+	    			</Link>
 				</div>
 			</div>			
 		</div>
@@ -76,15 +82,21 @@ function HomepageHeader() {
 				<div className="card__header">
 					<h3><Translate>ZX Evolution / TS Conf</Translate></h3>
 				</div>
+				<div class="card__image">
+   					<img
+       					src="img/main/tsconf.png"
+       					alt="ZX Evolution / TS Conf"
+       					title="" />
+   				</div>
 				<div className="card__body text--left">
 					<p><Translate>Hardware and architecture of the most modern and advanced ZX Spectrum clone in the ex-USSR area</Translate></p>
-					<div className="text--right">
-						<Link
-		            		className="button button--secondary"
-    		        		to="/docs/tsconf">
-								<Translate>Read</Translate>
-	    		    	</Link>
-					</div>
+				</div>
+				<div className="card__footer">
+					<Link
+		            	className="button button--secondary"
+    		        	to="/docs/tsconf">
+							<Translate>Read</Translate>
+	    			</Link>
 				</div>
 			</div>			
 		</div>

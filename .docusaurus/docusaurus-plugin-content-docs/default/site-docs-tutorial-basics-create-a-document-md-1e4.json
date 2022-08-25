@@ -6,7 +6,7 @@
   "source": "@site/docs/tutorial-basics/create-a-document.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/create-a-document",
-  "permalink": "/docs/tutorial-basics/create-a-document",
+  "permalink": "/ru/docs/tutorial-basics/create-a-document",
   "draft": false,
   "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/tutorial-basics/create-a-document.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Create a Page",
-    "permalink": "/docs/tutorial-basics/create-a-page"
+    "permalink": "/ru/docs/tutorial-basics/create-a-page"
   },
   "next": {
     "title": "Create a Blog Post",
-    "permalink": "/docs/tutorial-basics/create-a-blog-post"
+    "permalink": "/ru/docs/tutorial-basics/create-a-blog-post"
   }
 }

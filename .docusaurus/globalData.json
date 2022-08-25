@@ -1,103 +1,143 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/ru/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/ru/docs",
           "mainDocId": "borielzxbasic/index",
           "docs": [
             {
+              "id": "borielzxbasic/commands/abs",
+              "path": "/ru/docs/borielzxbasic/commands/abs",
+              "sidebar": "borielzx"
+            },
+            {
+              "id": "borielzxbasic/commands/acs",
+              "path": "/ru/docs/borielzxbasic/commands/acs",
+              "sidebar": "borielzx"
+            },
+            {
+              "id": "borielzxbasic/commands/align",
+              "path": "/ru/docs/borielzxbasic/commands/align",
+              "sidebar": "borielzx"
+            },
+            {
+              "id": "borielzxbasic/commands/asm",
+              "path": "/ru/docs/borielzxbasic/commands/asm",
+              "sidebar": "borielzx"
+            },
+            {
+              "id": "borielzxbasic/commands/asn",
+              "path": "/ru/docs/borielzxbasic/commands/asn",
+              "sidebar": "borielzx"
+            },
+            {
+              "id": "borielzxbasic/commands/at",
+              "path": "/ru/docs/borielzxbasic/commands/at",
+              "sidebar": "borielzx"
+            },
+            {
               "id": "borielzxbasic/index",
-              "path": "/docs/borielzxbasic/",
+              "path": "/ru/docs/borielzxbasic/",
               "sidebar": "borielzx"
             },
             {
               "id": "borielzxbasic/sinclair-basic-to-boriel-basic",
-              "path": "/docs/borielzxbasic/sinclair-basic-to-boriel-basic",
+              "path": "/ru/docs/borielzxbasic/sinclair-basic-to-boriel-basic",
+              "sidebar": "borielzx"
+            },
+            {
+              "id": "borielzxbasic/structure/types",
+              "path": "/ru/docs/borielzxbasic/structure/types",
               "sidebar": "borielzx"
             },
             {
               "id": "intro",
-              "path": "/docs/intro",
+              "path": "/ru/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tsconf/index",
-              "path": "/docs/tsconf/",
+              "path": "/ru/docs/tsconf/",
               "sidebar": "tsconf"
             },
             {
               "id": "tutorial-basics/congratulations",
-              "path": "/docs/tutorial-basics/congratulations",
+              "path": "/ru/docs/tutorial-basics/congratulations",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/create-a-blog-post",
-              "path": "/docs/tutorial-basics/create-a-blog-post",
+              "path": "/ru/docs/tutorial-basics/create-a-blog-post",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/create-a-document",
-              "path": "/docs/tutorial-basics/create-a-document",
+              "path": "/ru/docs/tutorial-basics/create-a-document",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/create-a-page",
-              "path": "/docs/tutorial-basics/create-a-page",
+              "path": "/ru/docs/tutorial-basics/create-a-page",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/deploy-your-site",
-              "path": "/docs/tutorial-basics/deploy-your-site",
+              "path": "/ru/docs/tutorial-basics/deploy-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/markdown-features",
-              "path": "/docs/tutorial-basics/markdown-features",
+              "path": "/ru/docs/tutorial-basics/markdown-features",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-extras/manage-docs-versions",
-              "path": "/docs/tutorial-extras/manage-docs-versions",
+              "path": "/ru/docs/tutorial-extras/manage-docs-versions",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-extras/translate-your-site",
-              "path": "/docs/tutorial-extras/translate-your-site",
+              "path": "/ru/docs/tutorial-extras/translate-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial/index",
-              "path": "/docs/tutorial/",
+              "path": "/ru/docs/tutorial/",
               "sidebar": "tutorial"
             },
             {
               "id": "zxnext/index",
-              "path": "/docs/zxnext/",
+              "path": "/ru/docs/zxnext/",
+              "sidebar": "zxnext"
+            },
+            {
+              "id": "zxnext/system_architecture/specifications",
+              "path": "/ru/docs/zxnext/system_architecture/specifications",
               "sidebar": "zxnext"
             },
             {
               "id": "zxspectrum/index",
-              "path": "/docs/zxspectrum/",
+              "path": "/ru/docs/zxspectrum/",
               "sidebar": "zxspectrum"
             },
             {
               "id": "/category/boriel-zx-basic",
-              "path": "/docs/category/boriel-zx-basic",
+              "path": "/ru/docs/category/boriel-zx-basic",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/tutorial---basics",
-              "path": "/docs/category/tutorial---basics",
+              "path": "/ru/docs/category/tutorial---basics",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/tutorial---extras",
-              "path": "/docs/category/tutorial---extras",
+              "path": "/ru/docs/category/tutorial---extras",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -105,37 +145,37 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/category/boriel-zx-basic",
+                "path": "/ru/docs/category/boriel-zx-basic",
                 "label": "Boriel ZX Basic"
               }
             },
             "borielzx": {
               "link": {
-                "path": "/docs/borielzxbasic/",
+                "path": "/ru/docs/borielzxbasic/",
                 "label": "borielzxbasic/index"
               }
             },
             "zxspectrum": {
               "link": {
-                "path": "/docs/zxspectrum/",
+                "path": "/ru/docs/zxspectrum/",
                 "label": "zxspectrum/index"
               }
             },
             "zxnext": {
               "link": {
-                "path": "/docs/zxnext/",
-                "label": "zxnext/index"
+                "path": "/ru/docs/zxnext/system_architecture/specifications",
+                "label": "zxnext/system_architecture/specifications"
               }
             },
             "tsconf": {
               "link": {
-                "path": "/docs/tsconf/",
+                "path": "/ru/docs/tsconf/",
                 "label": "tsconf/index"
               }
             },
             "tutorial": {
               "link": {
-                "path": "/docs/tutorial/",
+                "path": "/ru/docs/tutorial/",
                 "label": "tutorial/index"
               }
             }

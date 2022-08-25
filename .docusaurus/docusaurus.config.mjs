@@ -7,7 +7,7 @@ export default {
   "title": "ZX Docs",
   "tagline": "This resource contains technical documentation for ZX Spectrum developers. It will help you start developing your own programs and games without delay.",
   "url": "https://zxdocs.online",
-  "baseUrl": "/",
+  "baseUrl": "/ru/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
@@ -65,11 +65,11 @@ export default {
         {
           "to": "/docs/tutorial",
           "position": "left",
-          "label": "Tutorial"
+          "label": "Руководство"
         },
         {
           "to": "/blog",
-          "label": "Blog",
+          "label": "Разные статьи",
           "position": "left"
         },
         {
@@ -90,16 +90,16 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "Docs",
+          "title": "Ресурсы",
           "items": [
             {
-              "label": "Tutorial",
+              "label": "Туториал",
               "to": "/docs/intro"
             }
           ]
         },
         {
-          "title": "Community",
+          "title": "Сообщество",
           "items": [
             {
               "label": "Stack Overflow",
@@ -116,7 +116,7 @@ export default {
           ]
         },
         {
-          "title": "More",
+          "title": "Далее",
           "items": [
             {
               "label": "Blog",
@@ -129,7 +129,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2022 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2022 ZX Docs. Создано спектрумистами со всего мира."
     },
     "prism": {
       "theme": {

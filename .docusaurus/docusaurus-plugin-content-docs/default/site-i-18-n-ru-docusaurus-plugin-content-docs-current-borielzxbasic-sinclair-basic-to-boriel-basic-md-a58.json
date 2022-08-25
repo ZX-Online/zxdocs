@@ -20,5 +20,9 @@
   "previous": {
     "title": "Начало",
     "permalink": "/ru/docs/borielzxbasic/"
+  },
+  "next": {
+    "title": "ABS",
+    "permalink": "/ru/docs/borielzxbasic/commands/abs"
   }
 }

@@ -16,23 +16,81 @@
         "items": [
           {
             "type": "link",
-            "label": "Intro",
-            "href": "/docs/borielzxbasic/",
+            "label": "Начало",
+            "href": "/ru/docs/borielzxbasic/",
             "docId": "borielzxbasic/index"
           },
           {
             "type": "link",
-            "label": "sinclair-basic-to-boriel-basic",
-            "href": "/docs/borielzxbasic/sinclair-basic-to-boriel-basic",
+            "label": "От Sinclair ZX Basic к Boriel ZX Basic",
+            "href": "/ru/docs/borielzxbasic/sinclair-basic-to-boriel-basic",
             "docId": "borielzxbasic/sinclair-basic-to-boriel-basic"
+          },
+          {
+            "type": "category",
+            "label": "Commands",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "ABS",
+                "href": "/ru/docs/borielzxbasic/commands/abs",
+                "docId": "borielzxbasic/commands/abs"
+              },
+              {
+                "type": "link",
+                "label": "ACS",
+                "href": "/ru/docs/borielzxbasic/commands/acs",
+                "docId": "borielzxbasic/commands/acs"
+              },
+              {
+                "type": "link",
+                "label": "ALIGN",
+                "href": "/ru/docs/borielzxbasic/commands/align",
+                "docId": "borielzxbasic/commands/align"
+              },
+              {
+                "type": "link",
+                "label": "ASM",
+                "href": "/ru/docs/borielzxbasic/commands/asm",
+                "docId": "borielzxbasic/commands/asm"
+              },
+              {
+                "type": "link",
+                "label": "ASN",
+                "href": "/ru/docs/borielzxbasic/commands/asn",
+                "docId": "borielzxbasic/commands/asn"
+              },
+              {
+                "type": "link",
+                "label": "AT",
+                "href": "/ru/docs/borielzxbasic/commands/at",
+                "docId": "borielzxbasic/commands/at"
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "label": "Structure",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Types",
+                "href": "/ru/docs/borielzxbasic/structure/types",
+                "docId": "borielzxbasic/structure/types"
+              }
+            ]
           }
         ],
-        "href": "/docs/category/boriel-zx-basic"
+        "href": "/ru/docs/category/boriel-zx-basic"
       },
       {
         "type": "link",
-        "label": "Tutorial Intro",
-        "href": "/docs/intro",
+        "label": "Вводная Tutorial Intro",
+        "href": "/ru/docs/intro",
         "docId": "intro"
       },
       {
@@ -44,41 +102,41 @@
           {
             "type": "link",
             "label": "Create a Page",
-            "href": "/docs/tutorial-basics/create-a-page",
+            "href": "/ru/docs/tutorial-basics/create-a-page",
             "docId": "tutorial-basics/create-a-page"
           },
           {
             "type": "link",
             "label": "Create a Document",
-            "href": "/docs/tutorial-basics/create-a-document",
+            "href": "/ru/docs/tutorial-basics/create-a-document",
             "docId": "tutorial-basics/create-a-document"
           },
           {
             "type": "link",
             "label": "Create a Blog Post",
-            "href": "/docs/tutorial-basics/create-a-blog-post",
+            "href": "/ru/docs/tutorial-basics/create-a-blog-post",
             "docId": "tutorial-basics/create-a-blog-post"
           },
           {
             "type": "link",
             "label": "Markdown Features",
-            "href": "/docs/tutorial-basics/markdown-features",
+            "href": "/ru/docs/tutorial-basics/markdown-features",
             "docId": "tutorial-basics/markdown-features"
           },
           {
             "type": "link",
             "label": "Deploy your site",
-            "href": "/docs/tutorial-basics/deploy-your-site",
+            "href": "/ru/docs/tutorial-basics/deploy-your-site",
             "docId": "tutorial-basics/deploy-your-site"
           },
           {
             "type": "link",
             "label": "Congratulations!",
-            "href": "/docs/tutorial-basics/congratulations",
+            "href": "/ru/docs/tutorial-basics/congratulations",
             "docId": "tutorial-basics/congratulations"
           }
         ],
-        "href": "/docs/category/tutorial---basics"
+        "href": "/ru/docs/category/tutorial---basics"
       },
       {
         "type": "category",
@@ -89,70 +147,159 @@
           {
             "type": "link",
             "label": "Manage Docs Versions",
-            "href": "/docs/tutorial-extras/manage-docs-versions",
+            "href": "/ru/docs/tutorial-extras/manage-docs-versions",
             "docId": "tutorial-extras/manage-docs-versions"
           },
           {
             "type": "link",
             "label": "Translate your site",
-            "href": "/docs/tutorial-extras/translate-your-site",
+            "href": "/ru/docs/tutorial-extras/translate-your-site",
             "docId": "tutorial-extras/translate-your-site"
           }
         ],
-        "href": "/docs/category/tutorial---extras"
+        "href": "/ru/docs/category/tutorial---extras"
       },
       {
         "type": "link",
         "label": "index",
-        "href": "/docs/tsconf/",
+        "href": "/ru/docs/tsconf/",
         "docId": "tsconf/index"
       },
       {
         "type": "link",
         "label": "index",
-        "href": "/docs/tutorial/",
+        "href": "/ru/docs/tutorial/",
         "docId": "tutorial/index"
       },
       {
-        "type": "link",
+        "type": "category",
         "label": "index",
-        "href": "/docs/zxnext/",
-        "docId": "zxnext/index"
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "category",
+            "label": "System architecture",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Спецификация",
+                "href": "/ru/docs/zxnext/system_architecture/specifications",
+                "docId": "zxnext/system_architecture/specifications"
+              }
+            ]
+          }
+        ],
+        "href": "/ru/docs/zxnext/"
       },
       {
         "type": "link",
         "label": "index",
-        "href": "/docs/zxspectrum/",
+        "href": "/ru/docs/zxspectrum/",
         "docId": "zxspectrum/index"
       }
     ],
     "borielzx": [
       {
         "type": "link",
-        "label": "Intro",
-        "href": "/docs/borielzxbasic/",
+        "label": "Начало",
+        "href": "/ru/docs/borielzxbasic/",
         "docId": "borielzxbasic/index"
       },
       {
         "type": "link",
-        "label": "sinclair-basic-to-boriel-basic",
-        "href": "/docs/borielzxbasic/sinclair-basic-to-boriel-basic",
+        "label": "От Sinclair ZX Basic к Boriel ZX Basic",
+        "href": "/ru/docs/borielzxbasic/sinclair-basic-to-boriel-basic",
         "docId": "borielzxbasic/sinclair-basic-to-boriel-basic"
+      },
+      {
+        "type": "category",
+        "label": "Commands",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "ABS",
+            "href": "/ru/docs/borielzxbasic/commands/abs",
+            "docId": "borielzxbasic/commands/abs"
+          },
+          {
+            "type": "link",
+            "label": "ACS",
+            "href": "/ru/docs/borielzxbasic/commands/acs",
+            "docId": "borielzxbasic/commands/acs"
+          },
+          {
+            "type": "link",
+            "label": "ALIGN",
+            "href": "/ru/docs/borielzxbasic/commands/align",
+            "docId": "borielzxbasic/commands/align"
+          },
+          {
+            "type": "link",
+            "label": "ASM",
+            "href": "/ru/docs/borielzxbasic/commands/asm",
+            "docId": "borielzxbasic/commands/asm"
+          },
+          {
+            "type": "link",
+            "label": "ASN",
+            "href": "/ru/docs/borielzxbasic/commands/asn",
+            "docId": "borielzxbasic/commands/asn"
+          },
+          {
+            "type": "link",
+            "label": "AT",
+            "href": "/ru/docs/borielzxbasic/commands/at",
+            "docId": "borielzxbasic/commands/at"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Structure",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Types",
+            "href": "/ru/docs/borielzxbasic/structure/types",
+            "docId": "borielzxbasic/structure/types"
+          }
+        ]
       }
     ],
     "zxspectrum": [
       {
         "type": "link",
         "label": "index",
-        "href": "/docs/zxspectrum/",
+        "href": "/ru/docs/zxspectrum/",
         "docId": "zxspectrum/index"
       }
     ],
     "zxnext": [
       {
+        "type": "category",
+        "label": "System architecture",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Спецификация",
+            "href": "/ru/docs/zxnext/system_architecture/specifications",
+            "docId": "zxnext/system_architecture/specifications"
+          }
+        ]
+      },
+      {
         "type": "link",
         "label": "index",
-        "href": "/docs/zxnext/",
+        "href": "/ru/docs/zxnext/",
         "docId": "zxnext/index"
       }
     ],
@@ -160,7 +307,7 @@
       {
         "type": "link",
         "label": "index",
-        "href": "/docs/tsconf/",
+        "href": "/ru/docs/tsconf/",
         "docId": "tsconf/index"
       }
     ],
@@ -168,27 +315,69 @@
       {
         "type": "link",
         "label": "index",
-        "href": "/docs/tutorial/",
+        "href": "/ru/docs/tutorial/",
         "docId": "tutorial/index"
       }
     ]
   },
   "docs": {
+    "borielzxbasic/commands/abs": {
+      "id": "borielzxbasic/commands/abs",
+      "title": "ABS",
+      "description": "Синтаксис",
+      "sidebar": "borielzx"
+    },
+    "borielzxbasic/commands/acs": {
+      "id": "borielzxbasic/commands/acs",
+      "title": "ACS",
+      "description": "Синтаксис",
+      "sidebar": "borielzx"
+    },
+    "borielzxbasic/commands/align": {
+      "id": "borielzxbasic/commands/align",
+      "title": "ALIGN",
+      "description": "Синтаксис",
+      "sidebar": "borielzx"
+    },
+    "borielzxbasic/commands/asm": {
+      "id": "borielzxbasic/commands/asm",
+      "title": "ASM",
+      "description": "Синтаксис",
+      "sidebar": "borielzx"
+    },
+    "borielzxbasic/commands/asn": {
+      "id": "borielzxbasic/commands/asn",
+      "title": "ASN",
+      "description": "Синтаксис",
+      "sidebar": "borielzx"
+    },
+    "borielzxbasic/commands/at": {
+      "id": "borielzxbasic/commands/at",
+      "title": "AT",
+      "description": "Описание",
+      "sidebar": "borielzx"
+    },
     "borielzxbasic/index": {
       "id": "borielzxbasic/index",
-      "title": "Intro",
-      "description": "This page is dummy. Original Boriel ZX Basic in english is located here.",
+      "title": "Начало",
+      "description": "Оригинальная документация на английском языке находится тут.",
       "sidebar": "borielzx"
     },
     "borielzxbasic/sinclair-basic-to-boriel-basic": {
       "id": "borielzxbasic/sinclair-basic-to-boriel-basic",
-      "title": "sinclair-basic-to-boriel-basic",
-      "description": "",
+      "title": "От Sinclair ZX Basic к Boriel ZX Basic",
+      "description": "Это перевод оригинальной статьи \"De Sinclair ZX Basic a Boriel ZX Basic\" с испанского языка.",
+      "sidebar": "borielzx"
+    },
+    "borielzxbasic/structure/types": {
+      "id": "borielzxbasic/structure/types",
+      "title": "Types",
+      "description": "Introductions",
       "sidebar": "borielzx"
     },
     "intro": {
       "id": "intro",
-      "title": "Tutorial Intro",
+      "title": "Вводная Tutorial Intro",
       "description": "Let's discover Docusaurus in less than 5 minutes.",
       "sidebar": "tutorialSidebar"
     },
@@ -256,6 +445,12 @@
       "id": "zxnext/index",
       "title": "index",
       "description": "",
+      "sidebar": "zxnext"
+    },
+    "zxnext/system_architecture/specifications": {
+      "id": "zxnext/system_architecture/specifications",
+      "title": "Спецификация",
+      "description": "Это перевод официальной документации. Оригинальный англоязычный документ находится тут https://wiki.specnext.dev/Specifications",
       "sidebar": "zxnext"
     },
     "zxspectrum/index": {

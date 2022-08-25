@@ -8,25 +8,171 @@
           "banner": null,
           "badge": false,
           "className": "docs-version-current",
-          "path": "/docs",
-          "tagsPath": "/docs/tags",
+          "path": "/ru/docs",
+          "tagsPath": "/ru/docs/tags",
           "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs",
-          "editUrlLocalized": "https://github.com/ZX-Online/zxdocs/tree/main/docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "editUrlLocalized": "https://github.com/ZX-Online/zxdocs/tree/main/docs/i18n/ru/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
           "sidebarFilePath": "d:\\www\\zxdocs.org\\sidebars.js",
           "contentPath": "d:\\www\\zxdocs.org\\docs",
-          "contentPathLocalized": "d:\\www\\zxdocs.org\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "contentPathLocalized": "d:\\www\\zxdocs.org\\i18n\\ru\\docusaurus-plugin-content-docs\\current",
           "docs": [
+            {
+              "unversionedId": "borielzxbasic/commands/abs",
+              "id": "borielzxbasic/commands/abs",
+              "title": "ABS",
+              "description": "Синтаксис",
+              "source": "@site/i18n/ru/docusaurus-plugin-content-docs/current/borielzxbasic/commands/abs.md",
+              "sourceDirName": "borielzxbasic/commands",
+              "slug": "/borielzxbasic/commands/abs",
+              "permalink": "/ru/docs/borielzxbasic/commands/abs",
+              "draft": false,
+              "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/borielzxbasic/commands/abs.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "ABS"
+              },
+              "sidebar": "borielzx",
+              "previous": {
+                "title": "От Sinclair ZX Basic к Boriel ZX Basic",
+                "permalink": "/ru/docs/borielzxbasic/sinclair-basic-to-boriel-basic"
+              },
+              "next": {
+                "title": "ACS",
+                "permalink": "/ru/docs/borielzxbasic/commands/acs"
+              }
+            },
+            {
+              "unversionedId": "borielzxbasic/commands/acs",
+              "id": "borielzxbasic/commands/acs",
+              "title": "ACS",
+              "description": "Синтаксис",
+              "source": "@site/i18n/ru/docusaurus-plugin-content-docs/current/borielzxbasic/commands/acs.md",
+              "sourceDirName": "borielzxbasic/commands",
+              "slug": "/borielzxbasic/commands/acs",
+              "permalink": "/ru/docs/borielzxbasic/commands/acs",
+              "draft": false,
+              "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/borielzxbasic/commands/acs.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "borielzx",
+              "previous": {
+                "title": "ABS",
+                "permalink": "/ru/docs/borielzxbasic/commands/abs"
+              },
+              "next": {
+                "title": "ALIGN",
+                "permalink": "/ru/docs/borielzxbasic/commands/align"
+              }
+            },
+            {
+              "unversionedId": "borielzxbasic/commands/align",
+              "id": "borielzxbasic/commands/align",
+              "title": "ALIGN",
+              "description": "Синтаксис",
+              "source": "@site/i18n/ru/docusaurus-plugin-content-docs/current/borielzxbasic/commands/align.md",
+              "sourceDirName": "borielzxbasic/commands",
+              "slug": "/borielzxbasic/commands/align",
+              "permalink": "/ru/docs/borielzxbasic/commands/align",
+              "draft": false,
+              "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/borielzxbasic/commands/align.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "borielzx",
+              "previous": {
+                "title": "ACS",
+                "permalink": "/ru/docs/borielzxbasic/commands/acs"
+              },
+              "next": {
+                "title": "ASM",
+                "permalink": "/ru/docs/borielzxbasic/commands/asm"
+              }
+            },
+            {
+              "unversionedId": "borielzxbasic/commands/asm",
+              "id": "borielzxbasic/commands/asm",
+              "title": "ASM",
+              "description": "Синтаксис",
+              "source": "@site/i18n/ru/docusaurus-plugin-content-docs/current/borielzxbasic/commands/asm.md",
+              "sourceDirName": "borielzxbasic/commands",
+              "slug": "/borielzxbasic/commands/asm",
+              "permalink": "/ru/docs/borielzxbasic/commands/asm",
+              "draft": false,
+              "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/borielzxbasic/commands/asm.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "borielzx",
+              "previous": {
+                "title": "ALIGN",
+                "permalink": "/ru/docs/borielzxbasic/commands/align"
+              },
+              "next": {
+                "title": "ASN",
+                "permalink": "/ru/docs/borielzxbasic/commands/asn"
+              }
+            },
+            {
+              "unversionedId": "borielzxbasic/commands/asn",
+              "id": "borielzxbasic/commands/asn",
+              "title": "ASN",
+              "description": "Синтаксис",
+              "source": "@site/i18n/ru/docusaurus-plugin-content-docs/current/borielzxbasic/commands/asn.md",
+              "sourceDirName": "borielzxbasic/commands",
+              "slug": "/borielzxbasic/commands/asn",
+              "permalink": "/ru/docs/borielzxbasic/commands/asn",
+              "draft": false,
+              "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/borielzxbasic/commands/asn.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "borielzx",
+              "previous": {
+                "title": "ASM",
+                "permalink": "/ru/docs/borielzxbasic/commands/asm"
+              },
+              "next": {
+                "title": "AT",
+                "permalink": "/ru/docs/borielzxbasic/commands/at"
+              }
+            },
+            {
+              "unversionedId": "borielzxbasic/commands/at",
+              "id": "borielzxbasic/commands/at",
+              "title": "AT",
+              "description": "Описание",
+              "source": "@site/i18n/ru/docusaurus-plugin-content-docs/current/borielzxbasic/commands/at.md",
+              "sourceDirName": "borielzxbasic/commands",
+              "slug": "/borielzxbasic/commands/at",
+              "permalink": "/ru/docs/borielzxbasic/commands/at",
+              "draft": false,
+              "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/borielzxbasic/commands/at.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "borielzx",
+              "previous": {
+                "title": "ASN",
+                "permalink": "/ru/docs/borielzxbasic/commands/asn"
+              },
+              "next": {
+                "title": "Types",
+                "permalink": "/ru/docs/borielzxbasic/structure/types"
+              }
+            },
             {
               "unversionedId": "borielzxbasic/index",
               "id": "borielzxbasic/index",
-              "title": "Intro",
-              "description": "This page is dummy. Original Boriel ZX Basic in english is located here.",
-              "source": "@site/docs/borielzxbasic/index.md",
+              "title": "Начало",
+              "description": "Оригинальная документация на английском языке находится тут.",
+              "source": "@site/i18n/ru/docusaurus-plugin-content-docs/current/borielzxbasic/index.md",
               "sourceDirName": "borielzxbasic",
               "slug": "/borielzxbasic/",
-              "permalink": "/docs/borielzxbasic/",
+              "permalink": "/ru/docs/borielzxbasic/",
               "draft": false,
               "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/borielzxbasic/index.md",
               "tags": [],
@@ -34,43 +180,71 @@
               "sidebarPosition": 1,
               "frontMatter": {
                 "sidebar_position": 1,
-                "title": "Intro"
+                "title": "Начало"
               },
               "sidebar": "borielzx",
               "next": {
-                "title": "sinclair-basic-to-boriel-basic",
-                "permalink": "/docs/borielzxbasic/sinclair-basic-to-boriel-basic"
+                "title": "От Sinclair ZX Basic к Boriel ZX Basic",
+                "permalink": "/ru/docs/borielzxbasic/sinclair-basic-to-boriel-basic"
               }
             },
             {
               "unversionedId": "borielzxbasic/sinclair-basic-to-boriel-basic",
               "id": "borielzxbasic/sinclair-basic-to-boriel-basic",
-              "title": "sinclair-basic-to-boriel-basic",
-              "description": "",
-              "source": "@site/docs/borielzxbasic/sinclair-basic-to-boriel-basic.md",
+              "title": "От Sinclair ZX Basic к Boriel ZX Basic",
+              "description": "Это перевод оригинальной статьи \"De Sinclair ZX Basic a Boriel ZX Basic\" с испанского языка.",
+              "source": "@site/i18n/ru/docusaurus-plugin-content-docs/current/borielzxbasic/sinclair-basic-to-boriel-basic.md",
               "sourceDirName": "borielzxbasic",
               "slug": "/borielzxbasic/sinclair-basic-to-boriel-basic",
-              "permalink": "/docs/borielzxbasic/sinclair-basic-to-boriel-basic",
+              "permalink": "/ru/docs/borielzxbasic/sinclair-basic-to-boriel-basic",
               "draft": false,
               "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/borielzxbasic/sinclair-basic-to-boriel-basic.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "title": "От Sinclair ZX Basic к Boriel ZX Basic"
+              },
+              "sidebar": "borielzx",
+              "previous": {
+                "title": "Начало",
+                "permalink": "/ru/docs/borielzxbasic/"
+              },
+              "next": {
+                "title": "ABS",
+                "permalink": "/ru/docs/borielzxbasic/commands/abs"
+              }
+            },
+            {
+              "unversionedId": "borielzxbasic/structure/types",
+              "id": "borielzxbasic/structure/types",
+              "title": "Types",
+              "description": "Introductions",
+              "source": "@site/docs/borielzxbasic/structure/types.md",
+              "sourceDirName": "borielzxbasic/structure",
+              "slug": "/borielzxbasic/structure/types",
+              "permalink": "/ru/docs/borielzxbasic/structure/types",
+              "draft": false,
+              "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/borielzxbasic/structure/types.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
               "sidebar": "borielzx",
               "previous": {
-                "title": "Intro",
-                "permalink": "/docs/borielzxbasic/"
+                "title": "AT",
+                "permalink": "/ru/docs/borielzxbasic/commands/at"
               }
             },
             {
               "unversionedId": "intro",
               "id": "intro",
-              "title": "Tutorial Intro",
+              "title": "Вводная Tutorial Intro",
               "description": "Let's discover Docusaurus in less than 5 minutes.",
-              "source": "@site/docs/intro.md",
+              "source": "@site/i18n/ru/docusaurus-plugin-content-docs/current/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
-              "permalink": "/docs/intro",
+              "permalink": "/ru/docs/intro",
               "draft": false,
               "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/intro.md",
               "tags": [],
@@ -81,12 +255,12 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "sinclair-basic-to-boriel-basic",
-                "permalink": "/docs/borielzxbasic/sinclair-basic-to-boriel-basic"
+                "title": "Types",
+                "permalink": "/ru/docs/borielzxbasic/structure/types"
               },
               "next": {
                 "title": "Tutorial - Basics",
-                "permalink": "/docs/category/tutorial---basics"
+                "permalink": "/ru/docs/category/tutorial---basics"
               }
             },
             {
@@ -97,7 +271,7 @@
               "source": "@site/docs/tsconf/index.md",
               "sourceDirName": "tsconf",
               "slug": "/tsconf/",
-              "permalink": "/docs/tsconf/",
+              "permalink": "/ru/docs/tsconf/",
               "draft": false,
               "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/tsconf/index.md",
               "tags": [],
@@ -113,7 +287,7 @@
               "source": "@site/docs/tutorial-basics/congratulations.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/congratulations",
-              "permalink": "/docs/tutorial-basics/congratulations",
+              "permalink": "/ru/docs/tutorial-basics/congratulations",
               "draft": false,
               "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/tutorial-basics/congratulations.md",
               "tags": [],
@@ -125,11 +299,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Deploy your site",
-                "permalink": "/docs/tutorial-basics/deploy-your-site"
+                "permalink": "/ru/docs/tutorial-basics/deploy-your-site"
               },
               "next": {
                 "title": "Tutorial - Extras",
-                "permalink": "/docs/category/tutorial---extras"
+                "permalink": "/ru/docs/category/tutorial---extras"
               }
             },
             {
@@ -140,7 +314,7 @@
               "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/create-a-blog-post",
-              "permalink": "/docs/tutorial-basics/create-a-blog-post",
+              "permalink": "/ru/docs/tutorial-basics/create-a-blog-post",
               "draft": false,
               "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/tutorial-basics/create-a-blog-post.md",
               "tags": [],
@@ -152,11 +326,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Create a Document",
-                "permalink": "/docs/tutorial-basics/create-a-document"
+                "permalink": "/ru/docs/tutorial-basics/create-a-document"
               },
               "next": {
                 "title": "Markdown Features",
-                "permalink": "/docs/tutorial-basics/markdown-features"
+                "permalink": "/ru/docs/tutorial-basics/markdown-features"
               }
             },
             {
@@ -167,7 +341,7 @@
               "source": "@site/docs/tutorial-basics/create-a-document.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/create-a-document",
-              "permalink": "/docs/tutorial-basics/create-a-document",
+              "permalink": "/ru/docs/tutorial-basics/create-a-document",
               "draft": false,
               "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/tutorial-basics/create-a-document.md",
               "tags": [],
@@ -179,11 +353,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Create a Page",
-                "permalink": "/docs/tutorial-basics/create-a-page"
+                "permalink": "/ru/docs/tutorial-basics/create-a-page"
               },
               "next": {
                 "title": "Create a Blog Post",
-                "permalink": "/docs/tutorial-basics/create-a-blog-post"
+                "permalink": "/ru/docs/tutorial-basics/create-a-blog-post"
               }
             },
             {
@@ -194,7 +368,7 @@
               "source": "@site/docs/tutorial-basics/create-a-page.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/create-a-page",
-              "permalink": "/docs/tutorial-basics/create-a-page",
+              "permalink": "/ru/docs/tutorial-basics/create-a-page",
               "draft": false,
               "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/tutorial-basics/create-a-page.md",
               "tags": [],
@@ -206,11 +380,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Tutorial - Basics",
-                "permalink": "/docs/category/tutorial---basics"
+                "permalink": "/ru/docs/category/tutorial---basics"
               },
               "next": {
                 "title": "Create a Document",
-                "permalink": "/docs/tutorial-basics/create-a-document"
+                "permalink": "/ru/docs/tutorial-basics/create-a-document"
               }
             },
             {
@@ -221,7 +395,7 @@
               "source": "@site/docs/tutorial-basics/deploy-your-site.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/deploy-your-site",
-              "permalink": "/docs/tutorial-basics/deploy-your-site",
+              "permalink": "/ru/docs/tutorial-basics/deploy-your-site",
               "draft": false,
               "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/tutorial-basics/deploy-your-site.md",
               "tags": [],
@@ -233,11 +407,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Markdown Features",
-                "permalink": "/docs/tutorial-basics/markdown-features"
+                "permalink": "/ru/docs/tutorial-basics/markdown-features"
               },
               "next": {
                 "title": "Congratulations!",
-                "permalink": "/docs/tutorial-basics/congratulations"
+                "permalink": "/ru/docs/tutorial-basics/congratulations"
               }
             },
             {
@@ -248,7 +422,7 @@
               "source": "@site/docs/tutorial-basics/markdown-features.mdx",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/markdown-features",
-              "permalink": "/docs/tutorial-basics/markdown-features",
+              "permalink": "/ru/docs/tutorial-basics/markdown-features",
               "draft": false,
               "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/tutorial-basics/markdown-features.mdx",
               "tags": [],
@@ -260,11 +434,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Create a Blog Post",
-                "permalink": "/docs/tutorial-basics/create-a-blog-post"
+                "permalink": "/ru/docs/tutorial-basics/create-a-blog-post"
               },
               "next": {
                 "title": "Deploy your site",
-                "permalink": "/docs/tutorial-basics/deploy-your-site"
+                "permalink": "/ru/docs/tutorial-basics/deploy-your-site"
               }
             },
             {
@@ -275,7 +449,7 @@
               "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
               "sourceDirName": "tutorial-extras",
               "slug": "/tutorial-extras/manage-docs-versions",
-              "permalink": "/docs/tutorial-extras/manage-docs-versions",
+              "permalink": "/ru/docs/tutorial-extras/manage-docs-versions",
               "draft": false,
               "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/tutorial-extras/manage-docs-versions.md",
               "tags": [],
@@ -287,11 +461,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Tutorial - Extras",
-                "permalink": "/docs/category/tutorial---extras"
+                "permalink": "/ru/docs/category/tutorial---extras"
               },
               "next": {
                 "title": "Translate your site",
-                "permalink": "/docs/tutorial-extras/translate-your-site"
+                "permalink": "/ru/docs/tutorial-extras/translate-your-site"
               }
             },
             {
@@ -302,7 +476,7 @@
               "source": "@site/docs/tutorial-extras/translate-your-site.md",
               "sourceDirName": "tutorial-extras",
               "slug": "/tutorial-extras/translate-your-site",
-              "permalink": "/docs/tutorial-extras/translate-your-site",
+              "permalink": "/ru/docs/tutorial-extras/translate-your-site",
               "draft": false,
               "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/tutorial-extras/translate-your-site.md",
               "tags": [],
@@ -314,11 +488,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Manage Docs Versions",
-                "permalink": "/docs/tutorial-extras/manage-docs-versions"
+                "permalink": "/ru/docs/tutorial-extras/manage-docs-versions"
               },
               "next": {
                 "title": "index",
-                "permalink": "/docs/tsconf/"
+                "permalink": "/ru/docs/tsconf/"
               }
             },
             {
@@ -329,7 +503,7 @@
               "source": "@site/docs/tutorial/index.md",
               "sourceDirName": "tutorial",
               "slug": "/tutorial/",
-              "permalink": "/docs/tutorial/",
+              "permalink": "/ru/docs/tutorial/",
               "draft": false,
               "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/tutorial/index.md",
               "tags": [],
@@ -345,13 +519,41 @@
               "source": "@site/docs/zxnext/index.md",
               "sourceDirName": "zxnext",
               "slug": "/zxnext/",
-              "permalink": "/docs/zxnext/",
+              "permalink": "/ru/docs/zxnext/",
               "draft": false,
               "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/zxnext/index.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
-              "sidebar": "zxnext"
+              "sidebar": "zxnext",
+              "previous": {
+                "title": "Спецификация",
+                "permalink": "/ru/docs/zxnext/system_architecture/specifications"
+              }
+            },
+            {
+              "unversionedId": "zxnext/system_architecture/specifications",
+              "id": "zxnext/system_architecture/specifications",
+              "title": "Спецификация",
+              "description": "Это перевод официальной документации. Оригинальный англоязычный документ находится тут https://wiki.specnext.dev/Specifications",
+              "source": "@site/i18n/ru/docusaurus-plugin-content-docs/current/zxnext/system_architecture/specifications.md",
+              "sourceDirName": "zxnext/system_architecture",
+              "slug": "/zxnext/system_architecture/specifications",
+              "permalink": "/ru/docs/zxnext/system_architecture/specifications",
+              "draft": false,
+              "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/zxnext/system_architecture/specifications.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10,
+                "title": "Спецификация"
+              },
+              "sidebar": "zxnext",
+              "next": {
+                "title": "index",
+                "permalink": "/ru/docs/zxnext/"
+              }
             },
             {
               "unversionedId": "zxspectrum/index",
@@ -361,7 +563,7 @@
               "source": "@site/docs/zxspectrum/index.md",
               "sourceDirName": "zxspectrum",
               "slug": "/zxspectrum/",
-              "permalink": "/docs/zxspectrum/",
+              "permalink": "/ru/docs/zxspectrum/",
               "draft": false,
               "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/docs/docs/zxspectrum/index.md",
               "tags": [],
@@ -386,13 +588,57 @@
                   {
                     "type": "doc",
                     "id": "borielzxbasic/sinclair-basic-to-boriel-basic"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Commands",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "borielzxbasic/commands/abs"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "borielzxbasic/commands/acs"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "borielzxbasic/commands/align"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "borielzxbasic/commands/asm"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "borielzxbasic/commands/asn"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "borielzxbasic/commands/at"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "category",
+                    "label": "Structure",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "borielzxbasic/structure/types"
+                      }
+                    ]
                   }
                 ],
                 "link": {
                   "type": "generated-index",
                   "description": "Where we going to start?",
                   "slug": "/category/boriel-zx-basic",
-                  "permalink": "/docs/category/boriel-zx-basic"
+                  "permalink": "/ru/docs/category/boriel-zx-basic"
                 }
               },
               {
@@ -434,7 +680,7 @@
                   "type": "generated-index",
                   "description": "5 minutes to learn the most important Docusaurus concepts.",
                   "slug": "/category/tutorial---basics",
-                  "permalink": "/docs/category/tutorial---basics"
+                  "permalink": "/ru/docs/category/tutorial---basics"
                 }
               },
               {
@@ -455,7 +701,7 @@
                 "link": {
                   "type": "generated-index",
                   "slug": "/category/tutorial---extras",
-                  "permalink": "/docs/category/tutorial---extras"
+                  "permalink": "/ru/docs/category/tutorial---extras"
                 }
               },
               {
@@ -469,9 +715,28 @@
                 "id": "tutorial/index"
               },
               {
-                "type": "doc",
+                "type": "category",
                 "label": "index",
-                "id": "zxnext/index"
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "System architecture",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "zxnext/system_architecture/specifications"
+                      }
+                    ]
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "zxnext/index"
+                }
               },
               {
                 "type": "doc",
@@ -487,6 +752,50 @@
               {
                 "type": "doc",
                 "id": "borielzxbasic/sinclair-basic-to-boriel-basic"
+              },
+              {
+                "type": "category",
+                "label": "Commands",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "borielzxbasic/commands/abs"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "borielzxbasic/commands/acs"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "borielzxbasic/commands/align"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "borielzxbasic/commands/asm"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "borielzxbasic/commands/asn"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "borielzxbasic/commands/at"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Structure",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "borielzxbasic/structure/types"
+                  }
+                ]
               }
             ],
             "zxspectrum": [
@@ -496,6 +805,18 @@
               }
             ],
             "zxnext": [
+              {
+                "type": "category",
+                "label": "System architecture",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "zxnext/system_architecture/specifications"
+                  }
+                ]
+              },
               {
                 "type": "doc",
                 "id": "zxnext/index"
@@ -525,25 +846,25 @@
         {
           "id": "welcome",
           "metadata": {
-            "permalink": "/blog/welcome",
+            "permalink": "/ru/blog/welcome",
             "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/blog/blog/2021-08-26-welcome/index.md",
             "source": "@site/blog/2021-08-26-welcome/index.md",
             "title": "Welcome",
             "description": "Docusaurus blogging features are powered by the blog plugin.",
             "date": "2021-08-26T00:00:00.000Z",
-            "formattedDate": "August 26, 2021",
+            "formattedDate": "26 августа 2021 г.",
             "tags": [
               {
                 "label": "facebook",
-                "permalink": "/blog/tags/facebook"
+                "permalink": "/ru/blog/tags/facebook"
               },
               {
                 "label": "hello",
-                "permalink": "/blog/tags/hello"
+                "permalink": "/ru/blog/tags/hello"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/ru/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.405,
@@ -579,7 +900,7 @@
             },
             "nextItem": {
               "title": "MDX Blog Post",
-              "permalink": "/blog/mdx-blog-post"
+              "permalink": "/ru/blog/mdx-blog-post"
             }
           },
           "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\n\nSimply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
@@ -587,17 +908,17 @@
         {
           "id": "mdx-blog-post",
           "metadata": {
-            "permalink": "/blog/mdx-blog-post",
+            "permalink": "/ru/blog/mdx-blog-post",
             "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/blog/blog/2021-08-01-mdx-blog-post.mdx",
             "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
             "title": "MDX Blog Post",
             "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
             "date": "2021-08-01T00:00:00.000Z",
-            "formattedDate": "August 1, 2021",
+            "formattedDate": "1 августа 2021 г.",
             "tags": [
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/ru/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.175,
@@ -623,11 +944,11 @@
             },
             "prevItem": {
               "title": "Welcome",
-              "permalink": "/blog/welcome"
+              "permalink": "/ru/blog/welcome"
             },
             "nextItem": {
               "title": "Long Blog Post",
-              "permalink": "/blog/long-blog-post"
+              "permalink": "/ru/blog/long-blog-post"
             }
           },
           "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
@@ -635,21 +956,21 @@
         {
           "id": "long-blog-post",
           "metadata": {
-            "permalink": "/blog/long-blog-post",
+            "permalink": "/ru/blog/long-blog-post",
             "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/blog/blog/2019-05-29-long-blog-post.md",
             "source": "@site/blog/2019-05-29-long-blog-post.md",
             "title": "Long Blog Post",
             "description": "This is the summary of a very long blog post,",
             "date": "2019-05-29T00:00:00.000Z",
-            "formattedDate": "May 29, 2019",
+            "formattedDate": "29 мая 2019 г.",
             "tags": [
               {
                 "label": "hello",
-                "permalink": "/blog/tags/hello"
+                "permalink": "/ru/blog/tags/hello"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/ru/blog/tags/docusaurus"
               }
             ],
             "readingTime": 2.05,
@@ -674,11 +995,11 @@
             },
             "prevItem": {
               "title": "MDX Blog Post",
-              "permalink": "/blog/mdx-blog-post"
+              "permalink": "/ru/blog/mdx-blog-post"
             },
             "nextItem": {
               "title": "First Blog Post",
-              "permalink": "/blog/first-blog-post"
+              "permalink": "/ru/blog/first-blog-post"
             }
           },
           "content": "This is the summary of a very long blog post,\n\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\n\n<!--truncate-->\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
@@ -686,21 +1007,21 @@
         {
           "id": "first-blog-post",
           "metadata": {
-            "permalink": "/blog/first-blog-post",
+            "permalink": "/ru/blog/first-blog-post",
             "editUrl": "https://github.com/ZX-Online/zxdocs/tree/main/blog/blog/2019-05-28-first-blog-post.md",
             "source": "@site/blog/2019-05-28-first-blog-post.md",
             "title": "First Blog Post",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
             "date": "2019-05-28T00:00:00.000Z",
-            "formattedDate": "May 28, 2019",
+            "formattedDate": "28 мая 2019 г.",
             "tags": [
               {
                 "label": "hola",
-                "permalink": "/blog/tags/hola"
+                "permalink": "/ru/blog/tags/hola"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/ru/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.12,
@@ -731,7 +1052,7 @@
             },
             "prevItem": {
               "title": "Long Blog Post",
-              "permalink": "/blog/long-blog-post"
+              "permalink": "/ru/blog/long-blog-post"
             }
           },
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
@@ -746,7 +1067,7 @@
             "first-blog-post"
           ],
           "metadata": {
-            "permalink": "/blog",
+            "permalink": "/ru/blog",
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
@@ -757,19 +1078,19 @@
         }
       ],
       "blogTags": {
-        "/blog/tags/facebook": {
+        "/ru/blog/tags/facebook": {
           "label": "facebook",
           "items": [
             "welcome"
           ],
-          "permalink": "/blog/tags/facebook",
+          "permalink": "/ru/blog/tags/facebook",
           "pages": [
             {
               "items": [
                 "welcome"
               ],
               "metadata": {
-                "permalink": "/blog/tags/facebook",
+                "permalink": "/ru/blog/tags/facebook",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -780,13 +1101,13 @@
             }
           ]
         },
-        "/blog/tags/hello": {
+        "/ru/blog/tags/hello": {
           "label": "hello",
           "items": [
             "welcome",
             "long-blog-post"
           ],
-          "permalink": "/blog/tags/hello",
+          "permalink": "/ru/blog/tags/hello",
           "pages": [
             {
               "items": [
@@ -794,7 +1115,7 @@
                 "long-blog-post"
               ],
               "metadata": {
-                "permalink": "/blog/tags/hello",
+                "permalink": "/ru/blog/tags/hello",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -805,7 +1126,7 @@
             }
           ]
         },
-        "/blog/tags/docusaurus": {
+        "/ru/blog/tags/docusaurus": {
           "label": "docusaurus",
           "items": [
             "welcome",
@@ -813,7 +1134,7 @@
             "long-blog-post",
             "first-blog-post"
           ],
-          "permalink": "/blog/tags/docusaurus",
+          "permalink": "/ru/blog/tags/docusaurus",
           "pages": [
             {
               "items": [
@@ -823,7 +1144,7 @@
                 "first-blog-post"
               ],
               "metadata": {
-                "permalink": "/blog/tags/docusaurus",
+                "permalink": "/ru/blog/tags/docusaurus",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -834,19 +1155,19 @@
             }
           ]
         },
-        "/blog/tags/hola": {
+        "/ru/blog/tags/hola": {
           "label": "hola",
           "items": [
             "first-blog-post"
           ],
-          "permalink": "/blog/tags/hola",
+          "permalink": "/ru/blog/tags/hola",
           "pages": [
             {
               "items": [
                 "first-blog-post"
               ],
               "metadata": {
-                "permalink": "/blog/tags/hola",
+                "permalink": "/ru/blog/tags/hola",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -858,19 +1179,19 @@
           ]
         }
       },
-      "blogTagsListPath": "/blog/tags"
+      "blogTagsListPath": "/ru/blog/tags"
     }
   },
   "docusaurus-plugin-content-pages": {
     "default": [
       {
         "type": "jsx",
-        "permalink": "/",
+        "permalink": "/ru/",
         "source": "@site/src/pages/index.js"
       },
       {
         "type": "mdx",
-        "permalink": "/markdown-page",
+        "permalink": "/ru/markdown-page",
         "source": "@site/src/pages/markdown-page.md",
         "title": "Markdown page example",
         "description": "You don't need React to write simple standalone pages.",

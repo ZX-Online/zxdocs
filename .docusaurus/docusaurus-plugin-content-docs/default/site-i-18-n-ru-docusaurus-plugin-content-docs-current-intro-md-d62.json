@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "От Sinclair ZX Basic к Boriel ZX Basic",
-    "permalink": "/ru/docs/borielzxbasic/sinclair-basic-to-boriel-basic"
+    "title": "Types",
+    "permalink": "/ru/docs/borielzxbasic/structure/types"
   },
   "next": {
     "title": "Tutorial - Basics",
