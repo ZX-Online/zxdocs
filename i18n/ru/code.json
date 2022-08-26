@@ -294,5 +294,8 @@
   },
   "Modern replacement for the Sinclair ZX Basic. Compilable and very fast.": {
     "message": "Современная замена Sinclair ZX Basic. Компилируемый и очень быстрый."
+  },
+  "commands": {
+	"message": "Команды"
   }
 }
