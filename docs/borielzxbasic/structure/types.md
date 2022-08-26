@@ -62,7 +62,7 @@ Read the ZX Spectrum manual or [here](http://www.worldofspectrum.org/ZXBasicManu
 ### Strings
 
 String types are used to store alphanumerical strings.
-Strings can contain up to 65535 characters, and they can change its size dynamically so, unlike other data types, their content is stored in a different memory area, called [the heap](memory_heap.md).
+Strings can contain up to 65535 characters, and they can change its size dynamically so, unlike other data types, their content is stored in a different memory area, called [the heap](memory_heap).
 
 In most BASIC dialects, string variables used to have the **$** suffix (also called _sigil_), but suffixes are optional in ZX BASIC (you can omit them).
 
@@ -93,7 +93,7 @@ LET a(3) = 5: REM pick a(3) cell and store the number 5 in it
 
 ### Labels
 
-Unlike the above, [labels](labels.md) are not variables.
+Unlike the above, [labels](labels) are not variables.
 They refer to memory positions. Line numbers are also treated as labels and they are completely optional:
 
 
@@ -113,5 +113,5 @@ mylabel:
 ```
 
 ## See Also
-* [DIM](dim.md) (statement)
-* [Labels](labels.md)
+* [DIM](../commands/dim) (statement)
+* [Labels](labels)
