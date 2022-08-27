@@ -296,6 +296,6 @@
     "message": "Современная замена Sinclair ZX Basic. Компилируемый и очень быстрый."
   },
   "commands": {
-	"message": "Команды"
+    "message": "Команды"
   }
 }

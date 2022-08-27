@@ -22,5 +22,41 @@
   "sidebar.tutorialSidebar.category.Tutorial - Extras": {
     "message": "Tutorial - Extras",
     "description": "The label for category Tutorial - Extras in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Commands": {
+    "message": "Commands",
+    "description": "The label for category Commands in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Structure": {
+    "message": "Structure",
+    "description": "The label for category Structure in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.library": {
+    "message": "library",
+    "description": "The label for category library in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.index": {
+    "message": "index",
+    "description": "The label for category index in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.System architecture": {
+    "message": "System architecture",
+    "description": "The label for category System architecture in sidebar tutorialSidebar"
+  },
+  "sidebar.borielzx.category.Commands": {
+    "message": "Команды",
+    "description": "The label for category Commands in sidebar borielzx"
+  },
+  "sidebar.borielzx.category.Structure": {
+    "message": "Структура программы",
+    "description": "The label for category Structure in sidebar borielzx"
+  },
+  "sidebar.borielzx.category.library": {
+    "message": "library",
+    "description": "The label for category library in sidebar borielzx"
+  },
+  "sidebar.zxnext.category.System architecture": {
+    "message": "Архитектура системы",
+    "description": "The label for category System architecture in sidebar zxnext"
   }
 }
