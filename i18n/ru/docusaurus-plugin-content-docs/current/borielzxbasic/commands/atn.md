@@ -29,3 +29,4 @@ PRINT "Арктангенс числа а = "; ATN(a)
 * [COS](acs) и [ACS](asn)
 * [SIN](sin) и [ASN](asn)
 * [TAN](tan)
+
