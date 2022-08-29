@@ -141,6 +141,7 @@ const config = {
 				copyright: `Copyright © ${new Date().getFullYear()} ZX Docs. Built with ZX Spectrum amateurs from over the world / Сделано спектрумистами со всего мира.`,
 			},
 			prism: {
+				additionalLanguages: ['bash','basic'],
 				theme: lightCodeTheme,
 				darkTheme: darkCodeTheme,
 			},
