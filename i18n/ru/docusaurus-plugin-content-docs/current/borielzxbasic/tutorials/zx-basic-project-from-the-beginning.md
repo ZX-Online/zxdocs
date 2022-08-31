@@ -1,17 +1,19 @@
 
-# HOWTO: ZX Basic Project from the beginning
+# HOWTO: ZX Basic проект с самого нуля
 
-This page is dummy. Original  is located <a href="https://docs.google.com/document/pub?id=1vUneCCC18oXLglzoRcJdrMDUSh7vaO_tGDjzjOc8IhU">here</a>.
+Это статья копия. Оригинал находится  <a href="https://docs.google.com/document/pub?id=1vUneCCC18oXLglzoRcJdrMDUSh7vaO_tGDjzjOc8IhU">здесь</a>.
 
-UPDATE: Even though the Tutorial is not complete (and may never be); the end game was released.
+Обновление : Это руководство не закончено (и никогда не будет закончено), игра вышла.
 
-You can grab it, and the source code, from http://www.worldofspectrum.org/infoseekid.cgi?id=0027713
+Исходный код проекта можно скачать от сюда http://www.worldofspectrum.org/infoseekid.cgi?id=0027713
 
-## How to Write a Game in Boriel’s ZX Basic
+## Как написать игру на Boriel ZX Basic
 
-### (Project from the very beginning!)
+### Проект с нуля
+
 
 So, you think you’re a competent Sinclair Basic programmer, but feel that machine code on the humble speccy is still too much for you? Is there something you can do to get basic running faster?
+
 
 Luckily the answer is yes. There are a few tools out there that will help you write machine code without actually having to write the machine code, and they are called compilers.
 

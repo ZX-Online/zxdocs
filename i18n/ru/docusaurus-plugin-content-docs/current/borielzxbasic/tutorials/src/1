@@ -1,0 +1,82 @@
+<div>
+   <Container maxWidth="lg" sx={{ mt: 4, mb: 4 }}>
+   <Grid container spacing={3}>
+     <Grid item xs={12} md={3} lg={4}>
+{ !data.auth &&
+  <div>
+    <p>Forbidden</p>
+  </div>
+}
+{ data.auth &&
+  <div>
+  <Drawer
+    variant="permanent"
+    sx={{
+      width: drawerWidth,
+      flexShrink: 0,
+      [`& .MuiDrawer-paper`]: { width: drawerWidth, boxSizing: 'border-box' },
+    }}
+  >
+  <Toolbar />
+
+      <List>
+
+          <ListItem button onClick={buttonClick('apps')} >
+            <ListItemIcon>
+              <InboxIcon />
+            </ListItemIcon>
+            <ListItemText primary="Приложения" />
+          </ListItem>
+          <ListItem button onClick={buttonClick('servers')}>
+            <ListItemIcon>
+              <InboxIcon />
+            </ListItemIcon>
+            <ListItemText primary="Виртуальные сервера" />
+          </ListItem>
+      </List>
+  </Drawer>
+
+    <Box
+        component="main"
+
+        sx={{ flexGrow: 1, bgcolor: 'background.default',   overflow: 'auto',}}
+      >
+      <Toolbar />
+
+
+
+
+            <Paper
+              sx={{
+                p: 2,
+                display: 'flex',
+                flexDirection: 'column',
+                height: 240,
+              }}              >
+              <div>{dashboard}</div>
+              <Button variant="contained" startIcon={<AddCircleIcon  />} >Создать приложение</Button>
+
+            </Paper>
+
+            <Paper
+              sx={{
+                p: 2,
+                display: 'flex',
+                flexDirection: 'column',
+                height: 240,
+              }}>
+
+              <Card variant="outlined">
+                  <CardContent>
+                    <Typography sx={{ fontSize: 14 }} color="text.secondary" gutterBottom>
+                      Нет приложений
+                    </Typography>
+
+                  </CardContent>
+
+              </Card>
+
+              </Paper>
+              </Box>
+
+}

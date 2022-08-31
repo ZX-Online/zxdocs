@@ -1,3 +1,10 @@
+
+epsilon:
+  name: Alexey Epsilon
+  title: ZX Online maintainer
+  url: https://github.com/Epsiloncool
+  image_url: https://github.com/Epsiloncool.png
+
 endi:
   name: Endilie Yacop Sucipto
   title: Maintainer of Docusaurus
@@ -13,5 +20,5 @@ yangshun:
 slorber:
   name: Sébastien Lorber
   title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+  url: https://github.com/Epsiloncool
+  image_url: https://github.com/Epsiloncool.png

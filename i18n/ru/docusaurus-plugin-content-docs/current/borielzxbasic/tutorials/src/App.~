@@ -1,0 +1,95 @@
+import * as React from "react";
+import { BrowserRouter as Router ,
+    Routes,
+    Route,
+    Link,
+    useNavigate,
+    useLocation,
+    Navigate,
+    Outlet
+}
+
+ from "react-router-dom";
+import AppBar from '@mui/material/AppBar';
+import Toolbar from '@mui/material/Toolbar';
+import Button from '@mui/material/Button';
+import Container from '@mui/material/Container';
+import Box from '@mui/material/Box';
+// import './App.css';
+
+import { ThemeProvider, createTheme } from '@mui/material/styles';
+
+
+
+function App() {
+
+
+
+  return (
+
+
+        <Router>
+
+          <AppBar sx={{ }}  position="static">
+            <Container maxWidth="xl">
+           <Toolbar disableGutters>
+
+          <Box sx={{ flexGrow: 1, display: { xs: 'none', md: 'flex' } }}>
+<         Link to="/">
+            <Button sx={{ my: 2, color: 'white', display: 'block' }}>
+
+
+                Home
+            </Button>
+            </Link >
+
+             <Link to="/user">
+            <Button sx={{ my: 2, color: 'white', display: 'block' }}>
+
+
+                User
+            </Button>
+            </Link>
+
+             <Link to="/login">
+            <Button sx={{ my: 2, color: 'white', display: 'block' }}     >
+              login
+            </Button>
+              </Link>
+
+              </Box>
+           </Toolbar>
+           </Container>
+          </AppBar>
+
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/login" element={<LoginPage />} />
+            <Route path="/user"  element={<User /> }/>
+
+        </Routes>
+
+        </Router>
+
+    );
+
+}
+function LoginPage() {
+  return (
+    <div>Login</div>
+  );
+}
+
+function User() {
+  return (
+    <div>User</div>
+  );
+}
+
+function Home() {
+  return (
+    <div>HOME</div>
+  );
+}
+
+export default App;
