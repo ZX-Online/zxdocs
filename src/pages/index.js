@@ -36,11 +36,14 @@ function HomepageHeader() {
 				<div className="card__header">
 					<h3><Translate>ZX Spectrum Classic</Translate></h3>
 				</div>
-				<div class="card__image">
-   					<img
+				<div className="card__image">
+					<Link
+	            		className="button button--secondary"
+						style={{padding: 0, border: 0, background: 'transparent'}}
+   		        		to="/docs/zxspectrum"><img
        					src="img/main/zxspectrum.jpg"
        					alt="ZX Spectrum Classic"
-       					title="" />
+       					title="" /></Link>
    				</div>
 			   <div className="card__body text--left">
 					<p><Translate>Hardware and architecture of "Classic" models of ZX Spectrum developed in 1982-199x</Translate></p>
@@ -59,11 +62,13 @@ function HomepageHeader() {
 				<div className="card__header">
 					<h3><Translate>ZX Spectrum Next</Translate></h3>
 				</div>
-				<div class="card__image">
-   					<img
+				<div className="card__image">
+					<Link
+		            	className="button button--secondary"
+    		        	to="/docs/zxnext" style={{padding: 0, border: 0, background: 'transparent'}}><img
        					src="img/main/zxnext.png"
        					alt="ZX Spectrum Next"
-       					title="" />
+       					title="" /></Link>
    				</div>				
 				<div className="card__body text--left">
 					<p><Translate>Hardware and architecture of today's official ZX Spectrum successor</Translate></p>
@@ -82,11 +87,14 @@ function HomepageHeader() {
 				<div className="card__header">
 					<h3><Translate>ZX Evolution / TS Conf</Translate></h3>
 				</div>
-				<div class="card__image">
-   					<img
+				<div className="card__image">
+					<Link
+		            	className="button button--secondary"
+						style={{padding: 0, border: 0, background: 'transparent'}}
+    		        	to="/docs/tsconf"><img
        					src="img/main/tsconf.png"
        					alt="ZX Evolution / TS Conf"
-       					title="" />
+       					title="" /></Link>
    				</div>
 				<div className="card__body text--left">
 					<p><Translate>Hardware and architecture of the most modern and advanced ZX Spectrum clone in the ex-USSR area</Translate></p>
@@ -110,11 +118,14 @@ function HomepageHeader() {
 				<div className="card__header">
 					<h3><Translate>Boriel ZX Basic</Translate></h3>
 				</div>
-				<div class="card__image">
-   					<img
+				<div className="card__image">
+					<Link
+	            		className="button button--secondary"
+						style={{padding: 0, border: 0, background: 'transparent'}}
+   		        		to="/docs/borielzxbasic"><img
        					src="img/main/borielzxbasic.jpg"
        					alt="Boriel ZX Basic"
-       					title="" />
+       					title="" /></Link>
    				</div>
 				<div className="card__body text--left">
 					<p><Translate>Modern replacement for the Sinclair ZX Basic. Compilable and very fast.</Translate></p>
