@@ -26,7 +26,7 @@ PRINT "Косинус a = "; COS(a)
 
 ## Смотри также
 
-* [SIN](sin) and [ASN](asn)
-* [TAN](tan) and [ATN](atn)
+* [SIN](sin) и [ASN](asn)
+* [TAN](tan) и [ATN](atn)
 * [ACS](acs)
 * Более быстрый (но менее точный) способ вычислять тригонометрию для игр - библиотека [FCOS](../library/fsin.bas)
